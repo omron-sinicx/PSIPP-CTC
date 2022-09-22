@@ -1,0 +1,46 @@
+Input:
+  type: MAPF_Benchmark
+  map: ../problem_instances/MAPF_Benchmark/maps/arena.map
+  scenario: ../problem_instances/MAPF_Benchmark/scenarios/arena.map.scen
+  agent_size: 0.3
+Generators:
+  PRM-2000-10:
+    type: PRM
+    number_of_vertices: 2000
+    number_of_neighbors: 10
+  PRM-2000-5:
+    type: PRM
+    number_of_vertices: 2000
+    number_of_neighbors: 5
+  PRM-1000-20:
+    type: PRM
+    number_of_vertices: 1000
+    number_of_neighbors: 20
+  PRM-1000-15:
+    type: PRM
+    number_of_vertices: 1000
+    number_of_neighbors: 15
+  PRM-1000-10:
+    type: PRM
+    number_of_vertices: 1000
+    number_of_neighbors: 10
+  PRM-1000-5:
+    type: PRM
+    number_of_vertices: 1000
+    number_of_neighbors: 5
+  PRM-500-5:
+    type: PRM
+    number_of_vertices: 500
+    number_of_neighbors: 5
+  PRM-300-5:
+    type: PRM
+    number_of_vertices: 300
+    number_of_neighbors: 5
+  PRM-100-5:
+    type: PRM
+    number_of_vertices: 100
+    number_of_neighbors: 5
+  PRM-50-5:
+    type: PRM
+    number_of_vertices: 50
+    number_of_neighbors: 5

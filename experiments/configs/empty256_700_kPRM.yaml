@@ -1,0 +1,27 @@
+Generator:
+  type: kPRM
+  number_of_vertices: 0
+  number_of_neighbors: 15
+  
+Input:
+  type: Text
+  file: ../problem_instances/spatial/empty256.txt
+
+Roadmaps: ../experiments/roadmaps/empty256_700_kPRM/
+Iterations: 25
+number_of_agents: 700
+
+Planners:
+  PSIPP:
+    type: PSIPP
+    time_limit: 30.0
+  CCBS:
+    type: CCBS
+    time_limit: 30.0
+PairsToRun:
+  - Problem: Unannotated
+    Planner: CCBS
+  - Problem: Unannotated
+    Planner: PSIPP
+  - Problem: Annotated
+    Planner: PSIPP

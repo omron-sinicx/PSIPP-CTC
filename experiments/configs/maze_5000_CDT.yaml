@@ -1,0 +1,25 @@
+Generator:
+  type: CDT
+  
+Input:
+  type: Text
+  file: ../problem_instances/spatial/maze.txt
+
+Roadmaps: ../experiments/roadmaps/maze_5000_CDT/
+Iterations: 25
+number_of_agents: 5000
+
+Planners:
+  PSIPP:
+    type: PSIPP
+    time_limit: 30.0
+  CCBS:
+    type: CCBS
+    time_limit: 30.0
+PairsToRun:
+  - Problem: Unannotated
+    Planner: CCBS
+  - Problem: Unannotated
+    Planner: PSIPP
+  - Problem: Annotated
+    Planner: PSIPP

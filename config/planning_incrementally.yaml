@@ -1,0 +1,22 @@
+Problems:
+  Geometric:
+    type: Geometric
+    file: ../problem_instances/roadmaps/Berlin_1024_3_CDT.txt
+  Explicit:
+    type: Explicit
+    file: ../problem_instances/roadmaps/Berlin_1024_3_CDT.txt
+Planners:
+  PSIPP:
+    type: PSIPP
+    time_limit: 30.0
+  CCBS:
+    type: CCBS
+    time_limit: 30.0
+PairsToRun:
+  - Problem: Geometric
+    Planner: CCBS
+  - Problem: Geometric
+    Planner: PSIPP
+  - Problem: Explicit
+    Planner: PSIPP
+Iterations: 10

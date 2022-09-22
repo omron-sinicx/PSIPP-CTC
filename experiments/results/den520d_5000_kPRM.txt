@@ -1,0 +1,1711 @@
+0 annotation: 9597
+1 annotation: 9545
+2 annotation: 9493
+3 annotation: 9626
+4 annotation: 9695
+5 annotation: 9594
+6 annotation: 9549
+7 annotation: 9546
+8 annotation: 9642
+9 annotation: 9730
+10 annotation: 9800
+11 annotation: 9923
+12 annotation: 9821
+13 annotation: 9838
+14 annotation: 9910
+15 annotation: 10640
+16 annotation: 10844
+17 annotation: 13163
+18 annotation: 10646
+19 annotation: 11090
+20 annotation: 10776
+21 annotation: 11803
+22 annotation: 10854
+23 annotation: 13361
+24 annotation: 10522
+  Annotated, PSIPP,   1,   0,   0,   178.316,   178.316,      1653
+Unannotated,  CCBS,   1,   0,   0,   178.316,   178.316,        80
+Unannotated, PSIPP,   1,   0,   0,   178.316,   178.316,        32
+  Annotated, PSIPP,   1,   0,   1,    11.893,    11.893,       143
+Unannotated,  CCBS,   1,   0,   1,    11.893,    11.893,        13
+Unannotated, PSIPP,   1,   0,   1,    11.893,    11.893,        21
+  Annotated, PSIPP,   1,   0,   2,    51.130,    51.130,        19
+Unannotated,  CCBS,   1,   0,   2,    51.130,    51.130,        13
+Unannotated, PSIPP,   1,   0,   2,    51.130,    51.130,        21
+  Annotated, PSIPP,   1,   0,   3,   273.865,   273.865,        23
+Unannotated,  CCBS,   1,   0,   3,   273.865,   273.865,        14
+Unannotated, PSIPP,   1,   0,   3,   273.865,   273.865,        24
+  Annotated, PSIPP,   1,   0,   4,    36.995,    36.995,        22
+Unannotated,  CCBS,   1,   0,   4,    36.995,    36.995,        14
+Unannotated, PSIPP,   1,   0,   4,    36.995,    36.995,        21
+  Annotated, PSIPP,   1,   0,   5,    87.221,    87.221,       952
+Unannotated,  CCBS,   1,   0,   5,    87.221,    87.221,        14
+Unannotated, PSIPP,   1,   0,   5,    87.221,    87.221,        22
+  Annotated, PSIPP,   1,   0,   6,   106.440,   106.440,      2903
+Unannotated,  CCBS,   1,   0,   6,   106.440,   106.440,        38
+Unannotated, PSIPP,   1,   0,   6,   106.440,   106.440,        22
+  Annotated, PSIPP,   1,   0,   7,   242.573,   242.573,     12233
+Unannotated,  CCBS,   1,   0,   7,   242.573,   242.573,        14
+Unannotated, PSIPP,   1,   0,   7,   242.573,   242.573,        24
+  Annotated, PSIPP,   1,   0,   8,   138.517,   138.517,      8484
+Unannotated,  CCBS,   1,   0,   8,   138.517,   138.517,        93
+Unannotated, PSIPP,   1,   0,   8,   138.517,   138.517,        31
+  Annotated, PSIPP,   1,   0,   9,   137.071,   137.071,        41
+Unannotated,  CCBS,   1,   0,   9,   137.071,   137.071,        14
+Unannotated, PSIPP,   1,   0,   9,   137.071,   137.071,        22
+  Annotated, PSIPP,   1,   0,  10,   113.579,   113.579,      1020
+Unannotated,  CCBS,   1,   0,  10,   113.579,   113.579,        38
+Unannotated, PSIPP,   1,   0,  10,   113.579,   113.579,        22
+  Annotated, PSIPP,   1,   0,  11,   159.885,   159.885,      5454
+Unannotated,  CCBS,   1,   0,  11,   159.885,   159.885,        14
+Unannotated, PSIPP,   1,   0,  11,   159.885,   159.885,        22
+  Annotated, PSIPP,   1,   0,  12,   277.493,   277.493,       112
+Unannotated,  CCBS,   1,   0,  12,   277.493,   277.493,        14
+Unannotated, PSIPP,   1,   0,  12,   277.493,   277.493,        24
+  Annotated, PSIPP,   1,   0,  13,   206.078,   206.078,        21
+Unannotated,  CCBS,   1,   0,  13,   206.078,   206.078,        14
+Unannotated, PSIPP,   1,   0,  13,   206.078,   206.078,        23
+  Annotated, PSIPP,   1,   0,  14,   194.588,   194.588,        22
+Unannotated,  CCBS,   1,   0,  14,   194.588,   194.588,        16
+Unannotated, PSIPP,   1,   0,  14,   194.588,   194.588,        24
+  Annotated, PSIPP,   1,   0,  15,    91.911,    91.911,        19
+Unannotated,  CCBS,   1,   0,  15,    91.911,    91.911,        14
+Unannotated, PSIPP,   1,   0,  15,    91.911,    91.911,        22
+  Annotated, PSIPP,   1,   0,  16,   140.187,   140.187,       700
+Unannotated,  CCBS,   1,   0,  16,   140.187,   140.187,        14
+Unannotated, PSIPP,   1,   0,  16,   140.187,   140.187,        23
+  Annotated, PSIPP,   1,   0,  17,   256.710,   256.710,        25
+Unannotated,  CCBS,   1,   0,  17,   256.710,   256.710,        14
+Unannotated, PSIPP,   1,   0,  17,   256.710,   256.710,        26
+  Annotated, PSIPP,   1,   0,  18,    96.609,    96.609,        18
+Unannotated,  CCBS,   1,   0,  18,    96.609,    96.609,        16
+Unannotated, PSIPP,   1,   0,  18,    96.609,    96.609,        22
+  Annotated, PSIPP,   1,   0,  19,   180.741,   180.741,        21
+Unannotated,  CCBS,   1,   0,  19,   180.741,   180.741,        14
+Unannotated, PSIPP,   1,   0,  19,   180.741,   180.741,        23
+  Annotated, PSIPP,   1,   0,  20,    55.279,    55.279,        19
+Unannotated,  CCBS,   1,   0,  20,    55.279,    55.279,        54
+Unannotated, PSIPP,   1,   0,  20,    55.279,    55.279,        22
+  Annotated, PSIPP,   1,   0,  21,   266.371,   266.371,        24
+Unannotated,  CCBS,   1,   0,  21,   266.371,   266.371,        14
+Unannotated, PSIPP,   1,   0,  21,   266.371,   266.371,        25
+  Annotated, PSIPP,   1,   0,  22,    61.705,    61.705,        19
+Unannotated,  CCBS,   1,   0,  22,    61.705,    61.705,        14
+Unannotated, PSIPP,   1,   0,  22,    61.705,    61.705,        22
+  Annotated, PSIPP,   1,   0,  23,   158.092,   158.092,        20
+Unannotated,  CCBS,   1,   0,  23,   158.092,   158.092,        16
+Unannotated, PSIPP,   1,   0,  23,   158.092,   158.092,        22
+  Annotated, PSIPP,   1,   0,  24,    38.817,    38.817,        22
+Unannotated,  CCBS,   1,   0,  24,    38.817,    38.817,        14
+Unannotated, PSIPP,   1,   0,  24,    38.817,    38.817,        21
+  Annotated, PSIPP,   2,   0,   0,   192.355,   370.671,      1254
+Unannotated,  CCBS,   2,   0,   0,   192.355,   370.671,        20
+Unannotated, PSIPP,   2,   0,   0,   192.355,   370.671,     13915
+  Annotated, PSIPP,   2,   0,   1,    72.160,    84.053,      1191
+Unannotated,  CCBS,   2,   0,   1,    72.160,    84.053,        52
+Unannotated, PSIPP,   2,   0,   1,    72.160,    84.053,      1411
+  Annotated, PSIPP,   2,   0,   2,    67.353,   118.483,        23
+Unannotated,  CCBS,   2,   0,   2,    67.353,   118.483,        20
+Unannotated, PSIPP,   2,   0,   2,    67.353,   118.483,      4455
+  Annotated, PSIPP,   2,   0,   3,   276.782,   550.646,        89
+Unannotated,  CCBS,   2,   0,   3,   276.782,   550.646,        21
+Unannotated, PSIPP,   2,   0,   3,   276.782,   550.646,     22270
+  Annotated, PSIPP,   2,   0,   4,   117.131,   154.126,       360
+Unannotated,  CCBS,   2,   0,   4,   117.131,   154.126,        21
+Unannotated, PSIPP,   2,   0,   4,   117.131,   154.126,      2813
+  Annotated, PSIPP,   2,   0,   5,   176.966,   264.187,      6945
+Unannotated,  CCBS,   2,   0,   5,   176.742,   264.021,       119
+Unannotated, PSIPP,   2,   0,   5,   176.966,   264.187,      7106
+  Annotated, PSIPP,   2,   0,   6,   106.440,   157.436,      1572
+Unannotated,  CCBS,   2,   0,   6,   106.440,   157.436,        20
+Unannotated, PSIPP,   2,   0,   6,   106.440,   157.436,      8903
+  Annotated, PSIPP,   2,   0,   7,   242.573,   331.216,      2784
+Unannotated,  CCBS,   2,   0,   7,   242.573,   331.216,        21
+Unannotated, PSIPP,   2,   0,   7,   242.573,   331.216,     19627
+  Annotated, PSIPP,   2,   0,   8,   138.517,   215.710,       299
+Unannotated,  CCBS,   2,   0,   8,   138.517,   215.710,        20
+Unannotated, PSIPP,   2,   0,   8,   138.517,   215.710,     10988
+  Annotated, PSIPP,   2,   0,   9,   137.071,   181.473,       554
+Unannotated,  CCBS,   2,   0,   9,   137.071,   181.473,        20
+Unannotated, PSIPP,   2,   0,   9,   137.071,   181.473,     12089
+  Annotated, PSIPP,   2,   0,  10,   253.453,   367.032,      4089
+Unannotated,  CCBS,   2,   0,  10,   253.453,   367.032,        21
+Unannotated, PSIPP,   2,   0,  10,   253.453,   367.032,      9579
+  Annotated, PSIPP,   2,   0,  11,   159.885,   184.869,       322
+Unannotated,  CCBS,   2,   0,  11,   159.885,   184.869,        20
+Unannotated, PSIPP,   2,   0,  11,   159.885,   184.869,     13315
+  Annotated, PSIPP,   2,   0,  12,   277.493,   368.154,        24
+Unannotated,  CCBS,   2,   0,  12,   277.493,   368.154,        21
+Unannotated, PSIPP,   2,   0,  12,   277.493,   368.154,     22611
+  Annotated, PSIPP,   2,   0,  13,   206.078,   388.055,        24
+Unannotated,  CCBS,   2,   0,  13,   206.078,   388.055,        21
+Unannotated, PSIPP,   2,   0,  13,   206.078,   388.055,     16404
+  Annotated, PSIPP,   2,   0,  14,   194.588,   336.506,       544
+Unannotated,  CCBS,   2,   0,  14,   194.588,   336.506,        21
+Unannotated, PSIPP,   2,   0,  14,   194.588,   336.506,     15892
+  Annotated, PSIPP,   2,   0,  15,   201.125,   293.036,       945
+Unannotated,  CCBS,   2,   0,  15,   201.125,   293.036,        21
+Unannotated, PSIPP,   2,   0,  15,   201.125,   293.036,      7952
+  Annotated, PSIPP,   2,   0,  16,   140.187,   202.090,       417
+Unannotated,  CCBS,   2,   0,  16,   140.187,   202.090,        38
+Unannotated, PSIPP,   2,   0,  16,   140.187,   202.090,     11022
+  Annotated, PSIPP,   2,   0,  17,   256.710,   433.257,       186
+Unannotated,  CCBS,   2,   0,  17,   256.710,   433.257,        21
+Unannotated, PSIPP,   2,   0,  17,   256.710,   433.257,     19936
+  Annotated, PSIPP,   2,   0,  18,   254.451,   351.060,        23
+Unannotated,  CCBS,   2,   0,  18,   254.451,   351.060,        20
+Unannotated, PSIPP,   2,   0,  18,   254.451,   351.060,      8207
+  Annotated, PSIPP,   2,   0,  19,   180.741,   326.751,        22
+Unannotated,  CCBS,   2,   0,  19,   180.741,   326.751,        21
+Unannotated, PSIPP,   2,   0,  19,   180.741,   326.751,     13572
+  Annotated, PSIPP,   2,   0,  20,   152.379,   207.658,        22
+Unannotated,  CCBS,   2,   0,  20,   152.379,   207.658,        35
+Unannotated, PSIPP,   2,   0,  20,   152.379,   207.658,      4709
+  Annotated, PSIPP,   2,   0,  21,   266.371,   312.036,        25
+Unannotated,  CCBS,   2,   0,  21,   266.371,   312.036,        21
+Unannotated, PSIPP,   2,   0,  21,   266.371,   312.036,     20799
+  Annotated, PSIPP,   2,   0,  22,   235.016,   296.722,        23
+Unannotated,  CCBS,   2,   0,  22,   235.016,   296.722,        20
+Unannotated, PSIPP,   2,   0,  22,   235.016,   296.722,      4946
+  Annotated, PSIPP,   2,   0,  23,   158.092,   299.350,        21
+Unannotated,  CCBS,   2,   0,  23,   158.092,   299.350,        21
+Unannotated, PSIPP,   2,   0,  23,   158.092,   299.350,     13575
+  Annotated, PSIPP,   2,   0,  24,    38.817,    56.558,        19
+Unannotated,  CCBS,   2,   0,  24,    38.817,    56.558,        20
+Unannotated, PSIPP,   2,   0,  24,    38.817,    56.558,      3511
+  Annotated, PSIPP,   3,   0,   0,   279.620,   650.291,       586
+Unannotated,  CCBS,   3,   0,   0,   279.620,   650.291,        27
+Unannotated, PSIPP,   3,   0,   0,   279.620,   650.291,     28759
+  Annotated, PSIPP,   3,   0,   1,   134.811,   218.864,      4749
+Unannotated,  CCBS,   3,   0,   1,   134.811,   218.864,        27
+Unannotated, PSIPP,   3,   0,   1,   134.811,   218.864,      7480
+  Annotated, PSIPP,   3,   0,   2,   263.796,   382.279,       188
+Unannotated,  CCBS,   3,   0,   2,   263.796,   382.279,        27
+Unannotated, PSIPP,   3,   0,   2,   263.796,   382.279,     10056
+  Annotated, PSIPP,   3,   0,   3,   276.782,   795.277,      1981
+Unannotated,  CCBS,   3,   0,   3,   276.856,   795.277,        36
+Unannotated, PSIPP,   3,   0,   3,    -1.000,    -1.000,     43696
+  Annotated, PSIPP,   3,   0,   4,   117.131,   264.473,      2713
+Unannotated,  CCBS,   3,   0,   4,   117.131,   264.473,        27
+Unannotated, PSIPP,   3,   0,   4,   117.131,   264.473,     12627
+  Annotated, PSIPP,   3,   0,   5,   176.966,   374.652,      2158
+Unannotated,  CCBS,   3,   0,   5,   176.742,   374.487,        30
+Unannotated, PSIPP,   3,   0,   5,   176.966,   374.652,     21242
+  Annotated, PSIPP,   3,   0,   6,   182.536,   339.971,      7705
+Unannotated,  CCBS,   3,   0,   6,   182.536,   339.971,        26
+Unannotated, PSIPP,   3,   0,   6,   182.536,   339.971,     13117
+  Annotated, PSIPP,   3,   0,   7,   242.573,   460.391,      1390
+Unannotated,  CCBS,   3,   0,   7,   242.573,   460.391,        28
+Unannotated, PSIPP,   3,   0,   7,   242.573,   460.391,     26908
+  Annotated, PSIPP,   3,   0,   8,    -1.000,    -1.000,      5731
+Unannotated,  CCBS,   3,   0,   8,    -1.000,    -1.000,        48
+Unannotated, PSIPP,   3,   0,   8,    -1.000,    -1.000,     17061
+  Annotated, PSIPP,   3,   0,   9,   188.362,   369.835,       271
+Unannotated,  CCBS,   3,   0,   9,   188.362,   369.835,        29
+Unannotated, PSIPP,   3,   0,   9,   188.362,   369.835,     15890
+  Annotated, PSIPP,   3,   0,  10,   253.453,   473.454,      2039
+Unannotated,  CCBS,   3,   0,  10,   253.453,   473.454,        27
+Unannotated, PSIPP,   3,   0,  10,    -1.000,    -1.000,     30953
+  Annotated, PSIPP,   3,   0,  11,   159.885,   286.243,      1060
+Unannotated,  CCBS,   3,   0,  11,   159.885,   286.243,        27
+Unannotated, PSIPP,   3,   0,  11,   159.885,   286.243,     15430
+  Annotated, PSIPP,   3,   0,  12,   277.493,   632.705,        59
+Unannotated,  CCBS,   3,   0,  12,   277.493,   632.705,        79
+Unannotated, PSIPP,   3,   0,  12,   277.493,   632.705,     29194
+  Annotated, PSIPP,   3,   0,  13,   206.078,   573.842,        26
+Unannotated,  CCBS,   3,   0,  13,   206.078,   573.842,       102
+Unannotated, PSIPP,   3,   0,  13,   206.078,   573.842,     29835
+  Annotated, PSIPP,   3,   0,  14,   315.881,   652.387,       732
+Unannotated,  CCBS,   3,   0,  14,   315.881,   652.387,       106
+Unannotated, PSIPP,   3,   0,  14,   315.881,   652.387,     26637
+  Annotated, PSIPP,   3,   0,  15,   201.125,   444.288,      1561
+Unannotated,  CCBS,   3,   0,  15,   201.125,   444.214,       140
+Unannotated, PSIPP,   3,   0,  15,   201.125,   444.288,     23585
+  Annotated, PSIPP,   3,   0,  16,   141.225,   343.315,       423
+Unannotated,  CCBS,   3,   0,  16,   141.225,   343.315,        97
+Unannotated, PSIPP,   3,   0,  16,   141.225,   343.315,     16388
+  Annotated, PSIPP,   3,   0,  17,   256.710,   600.923,       213
+Unannotated,  CCBS,   3,   0,  17,   256.710,   600.923,        56
+Unannotated, PSIPP,   3,   0,  17,    -1.000,    -1.000,     33534
+  Annotated, PSIPP,   3,   0,  18,   322.136,   673.197,        30
+Unannotated,  CCBS,   3,   0,  18,   322.136,   673.197,        27
+Unannotated, PSIPP,   3,   0,  18,   322.136,   673.197,     27322
+  Annotated, PSIPP,   3,   0,  19,   223.280,   550.031,        26
+Unannotated,  CCBS,   3,   0,  19,   223.280,   550.031,        28
+Unannotated, PSIPP,   3,   0,  19,   223.280,   550.031,     25030
+  Annotated, PSIPP,   3,   0,  20,   170.498,   378.157,        24
+Unannotated,  CCBS,   3,   0,  20,   170.498,   378.157,        26
+Unannotated, PSIPP,   3,   0,  20,   170.498,   378.157,     17140
+  Annotated, PSIPP,   3,   0,  21,   266.371,   374.033,        25
+Unannotated,  CCBS,   3,   0,  21,   266.371,   374.033,        27
+Unannotated, PSIPP,   3,   0,  21,   266.371,   374.033,     25052
+  Annotated, PSIPP,   3,   0,  22,   235.016,   410.039,        24
+Unannotated,  CCBS,   3,   0,  22,   235.016,   410.039,        73
+Unannotated, PSIPP,   3,   0,  22,   235.016,   410.039,     23588
+  Annotated, PSIPP,   3,   0,  23,   158.092,   408.349,        22
+Unannotated,  CCBS,   3,   0,  23,   158.092,   408.349,        27
+Unannotated, PSIPP,   3,   0,  23,   158.092,   408.349,     25203
+  Annotated, PSIPP,   3,   0,  24,   145.244,   201.801,        20
+Unannotated,  CCBS,   3,   0,  24,   145.244,   201.801,        26
+Unannotated, PSIPP,   3,   0,  24,   145.244,   201.801,      4875
+  Annotated, PSIPP,   4,   0,   0,   279.620,   707.390,      2027
+Unannotated,  CCBS,   4,   0,   0,   279.620,   707.390,        32
+Unannotated, PSIPP,   4,   0,   0,    -1.000,    -1.000,     50351
+  Annotated, PSIPP,   4,   0,   1,   134.811,   324.089,       569
+Unannotated,  CCBS,   4,   0,   1,   134.811,   324.089,        30
+Unannotated, PSIPP,   4,   0,   1,   134.811,   324.089,     17988
+  Annotated, PSIPP,   4,   0,   2,   263.796,   564.408,        68
+Unannotated,  CCBS,   4,   0,   2,   263.796,   564.408,        30
+Unannotated, PSIPP,   4,   0,   2,   263.796,   564.408,     29525
+  Annotated, PSIPP,   4,   0,   3,   276.782,   903.149,      1254
+Unannotated,  CCBS,   4,   0,   3,   276.856,   903.149,        39
+  Annotated, PSIPP,   4,   0,   4,   117.131,   371.374,      2557
+Unannotated,  CCBS,   4,   0,   4,   117.131,   371.374,        31
+Unannotated, PSIPP,   4,   0,   4,   117.131,   371.374,     21944
+  Annotated, PSIPP,   4,   0,   5,   221.194,   595.847,      2993
+Unannotated,  CCBS,   4,   0,   5,   221.194,   595.681,        33
+Unannotated, PSIPP,   4,   0,   5,   221.194,   595.847,     29573
+  Annotated, PSIPP,   4,   0,   6,   182.536,   362.831,      2055
+Unannotated,  CCBS,   4,   0,   6,   182.536,   362.831,        30
+Unannotated, PSIPP,   4,   0,   6,   182.536,   362.831,     27746
+  Annotated, PSIPP,   4,   0,   7,   251.483,   711.874,      3588
+Unannotated,  CCBS,   4,   0,   7,   251.483,   711.874,        33
+Unannotated, PSIPP,   4,   0,   7,    -1.000,    -1.000,     37366
+  Annotated, PSIPP,   4,   0,   9,   188.362,   467.160,       671
+Unannotated,  CCBS,   4,   0,   9,   188.362,   467.160,        30
+Unannotated, PSIPP,   4,   0,   9,    -1.000,    -1.000,     31111
+  Annotated, PSIPP,   4,   0,  10,   253.453,   682.392,      1115
+Unannotated,  CCBS,   4,   0,  10,   253.453,   682.392,        31
+  Annotated, PSIPP,   4,   0,  11,   170.303,   456.546,      3256
+Unannotated,  CCBS,   4,   0,  11,   170.303,   456.546,        32
+Unannotated, PSIPP,   4,   0,  11,   170.303,   456.546,     24492
+  Annotated, PSIPP,   4,   0,  12,   277.493,   815.972,        30
+Unannotated,  CCBS,   4,   0,  12,   277.493,   815.972,        64
+Unannotated, PSIPP,   4,   0,  12,    -1.000,    -1.000,     49575
+  Annotated, PSIPP,   4,   0,  13,   308.383,   882.225,        31
+Unannotated,  CCBS,   4,   0,  13,   308.383,   882.225,       105
+Unannotated, PSIPP,   4,   0,  13,    -1.000,    -1.000,     30061
+  Annotated, PSIPP,   4,   0,  14,   315.881,   733.330,       901
+Unannotated,  CCBS,   4,   0,  14,   315.881,   733.330,        47
+Unannotated, PSIPP,   4,   0,  14,    -1.000,    -1.000,     50967
+  Annotated, PSIPP,   4,   0,  15,   267.541,   711.829,      1149
+Unannotated,  CCBS,   4,   0,  15,   267.541,   711.755,        81
+Unannotated, PSIPP,   4,   0,  15,    -1.000,    -1.000,     35454
+  Annotated, PSIPP,   4,   0,  16,   252.483,   595.798,       672
+Unannotated,  CCBS,   4,   0,  16,   252.483,   595.798,        66
+Unannotated, PSIPP,   4,   0,  16,   252.483,   595.798,     28302
+  Annotated, PSIPP,   4,   0,  17,   256.710,   752.188,       208
+Unannotated,  CCBS,   4,   0,  17,   256.710,   752.188,      1624
+  Annotated, PSIPP,   4,   0,  18,   322.136,   885.347,        34
+Unannotated,  CCBS,   4,   0,  18,   322.136,   884.094,        66
+Unannotated, PSIPP,   4,   0,  18,    -1.000,    -1.000,     51987
+  Annotated, PSIPP,   4,   0,  19,   223.280,   669.516,        28
+Unannotated,  CCBS,   4,   0,  19,   223.280,   669.516,        31
+Unannotated, PSIPP,   4,   0,  19,    -1.000,    -1.000,     42015
+  Annotated, PSIPP,   4,   0,  20,   170.498,   521.153,        25
+Unannotated,  CCBS,   4,   0,  20,   170.498,   521.153,        30
+Unannotated, PSIPP,   4,   0,  20,    -1.000,    -1.000,     30916
+  Annotated, PSIPP,   4,   0,  21,   277.840,   651.874,        28
+Unannotated,  CCBS,   4,   0,  21,   277.322,   651.431,       120
+Unannotated, PSIPP,   4,   0,  21,    -1.000,    -1.000,     30211
+  Annotated, PSIPP,   4,   0,  22,   235.016,   450.099,        26
+Unannotated,  CCBS,   4,   0,  22,   235.243,   450.099,        46
+Unannotated, PSIPP,   4,   0,  22,    -1.000,    -1.000,     32541
+  Annotated, PSIPP,   4,   0,  23,   158.092,   562.841,        24
+Unannotated,  CCBS,   4,   0,  23,   158.092,   562.841,        31
+Unannotated, PSIPP,   4,   0,  23,    -1.000,    -1.000,     34155
+  Annotated, PSIPP,   4,   0,  24,   145.244,   339.561,        22
+Unannotated,  CCBS,   4,   0,  24,   145.244,   339.561,        30
+Unannotated, PSIPP,   4,   0,  24,   145.244,   339.561,     16066
+  Annotated, PSIPP,   5,   0,   0,   279.620,   722.216,       547
+Unannotated,  CCBS,   5,   0,   0,   279.620,   722.216,        37
+  Annotated, PSIPP,   5,   0,   1,   186.067,   510.156,      1403
+Unannotated,  CCBS,   5,   0,   1,   186.067,   510.156,        36
+Unannotated, PSIPP,   5,   0,   1,   186.067,   510.156,     26890
+  Annotated, PSIPP,   5,   0,   2,   263.796,   662.963,        35
+Unannotated,  CCBS,   5,   0,   2,   263.796,   662.963,        37
+Unannotated, PSIPP,   5,   0,   2,    -1.000,    -1.000,     43300
+  Annotated, PSIPP,   5,   0,   3,   276.782,   981.218,       413
+Unannotated,  CCBS,   5,   0,   3,   276.856,   981.218,        45
+  Annotated, PSIPP,   5,   0,   4,   117.131,   457.508,      1584
+Unannotated,  CCBS,   5,   0,   4,   117.131,   457.508,        37
+Unannotated, PSIPP,   5,   0,   4,    -1.000,    -1.000,     30578
+  Annotated, PSIPP,   5,   0,   5,   221.194,   609.845,      1553
+Unannotated,  CCBS,   5,   0,   5,   221.194,   609.679,        40
+Unannotated, PSIPP,   5,   0,   5,    -1.000,    -1.000,     46818
+  Annotated, PSIPP,   5,   0,   6,   211.613,   574.443,      3394
+Unannotated,  CCBS,   5,   0,   6,   211.613,   574.443,       453
+Unannotated, PSIPP,   5,   0,   6,   211.613,   574.443,     29908
+  Annotated, PSIPP,   5,   0,   7,   251.483,   843.614,      2186
+Unannotated,  CCBS,   5,   0,   7,   251.483,   843.614,        39
+  Annotated, PSIPP,   5,   0,   9,   188.362,   502.507,       510
+Unannotated,  CCBS,   5,   0,   9,   188.362,   502.507,        41
+  Annotated, PSIPP,   5,   0,  10,   253.453,   843.749,      1618
+Unannotated,  CCBS,   5,   0,  10,   253.453,   843.749,        50
+  Annotated, PSIPP,   5,   0,  11,   170.303,   532.897,       244
+Unannotated,  CCBS,   5,   0,  11,   170.303,   532.897,        37
+Unannotated, PSIPP,   5,   0,  11,    -1.000,    -1.000,     38620
+  Annotated, PSIPP,   5,   0,  12,   277.493,   989.945,        35
+Unannotated,  CCBS,   5,   0,  12,   277.870,   989.195,       289
+  Annotated, PSIPP,   5,   0,  13,   308.383,  1056.785,        36
+Unannotated,  CCBS,   5,   0,  13,   308.383,  1056.785,       112
+  Annotated, PSIPP,   5,   0,  14,   315.881,   772.644,       239
+Unannotated,  CCBS,   5,   0,  14,   315.881,   772.644,        53
+  Annotated, PSIPP,   5,   0,  15,   267.541,   863.125,      1394
+Unannotated,  CCBS,   5,   0,  15,   267.541,   863.051,       104
+  Annotated, PSIPP,   5,   0,  16,   252.483,   840.278,       515
+Unannotated,  CCBS,   5,   0,  16,    -1.000,    -1.000,     30037
+Unannotated, PSIPP,   5,   0,  16,    -1.000,    -1.000,     47114
+  Annotated, PSIPP,   5,   0,  17,   256.710,   901.165,       182
+Unannotated,  CCBS,   5,   0,  17,   257.759,   901.165,      1613
+  Annotated, PSIPP,   5,   0,  18,   322.136,  1113.548,        36
+Unannotated,  CCBS,   5,   0,  18,   322.136,  1112.295,        73
+  Annotated, PSIPP,   5,   0,  19,   223.280,   825.968,        31
+Unannotated,  CCBS,   5,   0,  19,   223.280,   825.968,        38
+  Annotated, PSIPP,   5,   0,  20,   304.131,   825.284,        31
+Unannotated,  CCBS,   5,   0,  20,   304.131,   825.284,        53
+  Annotated, PSIPP,   5,   0,  21,   277.840,   780.188,        31
+Unannotated,  CCBS,   5,   0,  21,   277.322,   779.746,       126
+  Annotated, PSIPP,   5,   0,  22,   235.016,   628.882,        28
+Unannotated,  CCBS,   5,   0,  22,   235.016,   628.692,       219
+  Annotated, PSIPP,   5,   0,  23,   158.092,   677.401,        28
+Unannotated,  CCBS,   5,   0,  23,   158.092,   677.401,        38
+  Annotated, PSIPP,   5,   0,  24,   265.717,   605.278,        27
+Unannotated,  CCBS,   5,   0,  24,   265.717,   605.278,        40
+Unannotated, PSIPP,   5,   0,  24,   265.717,   605.278,     26047
+  Annotated, PSIPP,   6,   0,   0,   279.620,   794.552,       208
+Unannotated,  CCBS,   6,   0,   0,   279.620,   794.552,        44
+  Annotated, PSIPP,   6,   0,   1,   186.067,   607.625,       472
+Unannotated,  CCBS,   6,   0,   1,   186.067,   607.625,        63
+Unannotated, PSIPP,   6,   0,   1,    -1.000,    -1.000,     42116
+  Annotated, PSIPP,   6,   0,   2,   263.796,   802.117,        30
+Unannotated,  CCBS,   6,   0,   2,   263.796,   802.117,        42
+  Annotated, PSIPP,   6,   0,   3,   276.782,  1070.162,       490
+Unannotated,  CCBS,   6,   0,   3,   276.856,  1070.162,        51
+  Annotated, PSIPP,   6,   0,   4,   163.153,   620.662,      3626
+Unannotated,  CCBS,   6,   0,   4,   163.153,   620.662,        44
+  Annotated, PSIPP,   6,   0,   5,   221.194,   758.082,       238
+Unannotated,  CCBS,   6,   0,   5,   221.194,   757.916,        45
+  Annotated, PSIPP,   6,   0,   6,   211.613,   658.786,      1793
+Unannotated,  CCBS,   6,   0,   6,   211.613,   658.786,       495
+Unannotated, PSIPP,   6,   0,   6,    -1.000,    -1.000,     47637
+  Annotated, PSIPP,   6,   0,   7,   251.483,   959.373,       865
+Unannotated,  CCBS,   6,   0,   7,   251.483,   959.373,        44
+  Annotated, PSIPP,   6,   0,   9,   280.605,   783.112,       189
+Unannotated,  CCBS,   6,   0,   9,   280.605,   783.112,        41
+  Annotated, PSIPP,   6,   0,  10,   253.453,   961.786,       853
+Unannotated,  CCBS,   6,   0,  10,   253.698,   961.375,       204
+  Annotated, PSIPP,   6,   0,  11,   170.303,   621.885,       390
+Unannotated,  CCBS,   6,   0,  11,   170.303,   621.885,        42
+  Annotated, PSIPP,   6,   0,  12,   277.493,  1210.203,        54
+Unannotated,  CCBS,   6,   0,  12,   277.870,  1209.452,       327
+  Annotated, PSIPP,   6,   0,  13,   308.383,  1319.947,        40
+Unannotated,  CCBS,   6,   0,  13,   308.782,  1319.947,       200
+  Annotated, PSIPP,   6,   0,  14,   315.881,   834.715,       157
+Unannotated,  CCBS,   6,   0,  14,   315.881,   834.715,        65
+  Annotated, PSIPP,   6,   0,  15,   267.541,   999.096,      1107
+Unannotated,  CCBS,   6,   0,  15,   267.541,   999.022,        94
+  Annotated, PSIPP,   6,   0,  16,   252.483,   998.660,       394
+  Annotated, PSIPP,   6,   0,  17,   256.710,  1121.895,       143
+Unannotated,  CCBS,   6,   0,  17,   258.272,  1120.954,      3224
+  Annotated, PSIPP,   6,   0,  18,   322.136,  1174.833,        37
+Unannotated,  CCBS,   6,   0,  18,   322.136,  1173.581,        80
+  Annotated, PSIPP,   6,   0,  19,   223.280,   925.617,        32
+Unannotated,  CCBS,   6,   0,  19,   223.280,   925.617,        43
+  Annotated, PSIPP,   6,   0,  20,   304.131,   871.259,        32
+Unannotated,  CCBS,   6,   0,  20,   304.131,   871.259,        58
+  Annotated, PSIPP,   6,   0,  21,   310.128,  1090.316,        38
+Unannotated,  CCBS,   6,   0,  21,   310.119,  1089.870,       199
+  Annotated, PSIPP,   6,   0,  22,   235.016,   648.246,        29
+Unannotated,  CCBS,   6,   0,  22,   235.016,   648.056,       193
+  Annotated, PSIPP,   6,   0,  23,   158.092,   755.939,        27
+Unannotated,  CCBS,   6,   0,  23,   158.092,   755.939,        42
+  Annotated, PSIPP,   6,   0,  24,   265.717,   791.745,        28
+Unannotated,  CCBS,   6,   0,  24,   265.717,   791.745,        48
+Unannotated, PSIPP,   6,   0,  24,    -1.000,    -1.000,     48553
+  Annotated, PSIPP,   7,   0,   0,   279.620,   846.263,       597
+Unannotated,  CCBS,   7,   0,   0,   279.620,   846.263,        49
+  Annotated, PSIPP,   7,   0,   1,   218.301,   825.927,      2255
+Unannotated,  CCBS,   7,   0,   1,   218.301,   825.927,        70
+  Annotated, PSIPP,   7,   0,   2,   263.796,   963.151,        35
+Unannotated,  CCBS,   7,   0,   2,   263.796,   963.151,       153
+  Annotated, PSIPP,   7,   0,   3,    -1.000,    -1.000,       731
+Unannotated,  CCBS,   7,   0,   3,    -1.000,    -1.000,        70
+  Annotated, PSIPP,   7,   0,   4,   163.153,   744.037,      2030
+Unannotated,  CCBS,   7,   0,   4,   163.153,   744.037,        51
+  Annotated, PSIPP,   7,   0,   5,   221.194,   780.139,      1243
+Unannotated,  CCBS,   7,   0,   5,   221.194,   779.973,        51
+  Annotated, PSIPP,   7,   0,   6,   258.480,   917.266,      2829
+Unannotated,  CCBS,   7,   0,   6,   257.853,   917.123,      1769
+  Annotated, PSIPP,   7,   0,   7,   251.483,  1194.964,      1638
+Unannotated,  CCBS,   7,   0,   7,   251.483,  1194.964,       341
+  Annotated, PSIPP,   7,   0,   9,   280.605,   916.099,      1057
+Unannotated,  CCBS,   7,   0,   9,   280.605,   916.099,        48
+  Annotated, PSIPP,   7,   0,  10,   253.453,  1170.195,      1070
+Unannotated,  CCBS,   7,   0,  10,   253.698,  1169.754,       256
+  Annotated, PSIPP,   7,   0,  11,   239.185,   861.070,      1994
+Unannotated,  CCBS,   7,   0,  11,   239.185,   861.070,        48
+  Annotated, PSIPP,   7,   0,  12,   277.493,  1373.140,        44
+Unannotated,  CCBS,   7,   0,  12,   277.870,  1372.389,       313
+  Annotated, PSIPP,   7,   0,  13,   308.383,  1440.068,        46
+Unannotated,  CCBS,   7,   0,  13,   308.782,  1440.068,       206
+  Annotated, PSIPP,   7,   0,  14,   315.881,  1101.641,       273
+Unannotated,  CCBS,   7,   0,  14,   315.881,  1101.641,        66
+  Annotated, PSIPP,   7,   0,  15,   267.541,  1132.258,      1090
+Unannotated,  CCBS,   7,   0,  15,   267.541,  1132.184,       123
+  Annotated, PSIPP,   7,   0,  16,   252.483,  1052.361,       485
+  Annotated, PSIPP,   7,   0,  17,   256.710,  1203.553,        88
+Unannotated,  CCBS,   7,   0,  17,   258.272,  1202.612,      3211
+  Annotated, PSIPP,   7,   0,  18,   322.136,  1420.546,        39
+Unannotated,  CCBS,   7,   0,  18,   322.136,  1419.273,       242
+  Annotated, PSIPP,   7,   0,  19,   223.280,  1061.673,        33
+Unannotated,  CCBS,   7,   0,  19,   223.280,  1061.673,        57
+  Annotated, PSIPP,   7,   0,  20,   304.131,  1056.681,        34
+Unannotated,  CCBS,   7,   0,  20,   304.131,  1056.681,        72
+  Annotated, PSIPP,   7,   0,  21,   310.128,  1223.707,        38
+Unannotated,  CCBS,   7,   0,  21,   310.119,  1223.261,       205
+  Annotated, PSIPP,   7,   0,  22,   235.016,   808.777,        30
+Unannotated,  CCBS,   7,   0,  22,   235.016,   808.586,       190
+  Annotated, PSIPP,   7,   0,  23,   164.981,   920.920,        28
+Unannotated,  CCBS,   7,   0,  23,   164.763,   920.812,        54
+  Annotated, PSIPP,   7,   0,  24,   265.717,  1049.111,        32
+Unannotated,  CCBS,   7,   0,  24,   265.717,  1049.111,        82
+  Annotated, PSIPP,   8,   0,   0,   279.620,   996.428,       432
+Unannotated,  CCBS,   8,   0,   0,   279.620,   996.428,        55
+  Annotated, PSIPP,   8,   0,   1,   218.301,   871.151,        55
+Unannotated,  CCBS,   8,   0,   1,   218.301,   871.151,        74
+  Annotated, PSIPP,   8,   0,   2,   263.796,  1189.205,        77
+Unannotated,  CCBS,   8,   0,   2,   263.796,  1189.133,      5684
+  Annotated, PSIPP,   8,   0,   4,   163.153,   835.910,      1212
+Unannotated,  CCBS,   8,   0,   4,   163.153,   835.910,        57
+  Annotated, PSIPP,   8,   0,   5,   262.377,  1042.515,      1411
+Unannotated,  CCBS,   8,   0,   5,   261.763,  1041.754,       102
+  Annotated, PSIPP,   8,   0,   6,   258.480,  1121.741,      3023
+Unannotated,  CCBS,   8,   0,   6,   257.853,  1121.420,     11390
+  Annotated, PSIPP,   8,   0,   7,   251.483,  1236.013,      1540
+Unannotated,  CCBS,   8,   0,   7,   251.483,  1236.013,       415
+  Annotated, PSIPP,   8,   0,   9,   280.605,  1018.210,       537
+Unannotated,  CCBS,   8,   0,   9,   280.605,  1018.210,        53
+  Annotated, PSIPP,   8,   0,  10,   253.453,  1341.999,       881
+Unannotated,  CCBS,   8,   0,  10,   253.698,  1341.557,       975
+  Annotated, PSIPP,   8,   0,  11,   239.185,   894.182,       285
+Unannotated,  CCBS,   8,   0,  11,   239.185,   894.182,        71
+  Annotated, PSIPP,   8,   0,  12,   277.493,  1565.327,        40
+Unannotated,  CCBS,   8,   0,  12,   277.870,  1564.577,     10038
+  Annotated, PSIPP,   8,   0,  13,   308.383,  1473.142,        40
+Unannotated,  CCBS,   8,   0,  13,   308.782,  1473.142,       205
+  Annotated, PSIPP,   8,   0,  14,   315.881,  1274.088,       815
+Unannotated,  CCBS,   8,   0,  14,   315.881,  1274.088,        71
+  Annotated, PSIPP,   8,   0,  15,   267.541,  1333.407,       945
+Unannotated,  CCBS,   8,   0,  15,   267.541,  1332.997,       805
+  Annotated, PSIPP,   8,   0,  16,   252.483,  1147.219,       243
+  Annotated, PSIPP,   8,   0,  17,   301.832,  1505.385,        68
+Unannotated,  CCBS,   8,   0,  17,   301.783,  1504.395,      4835
+  Annotated, PSIPP,   8,   0,  18,   322.136,  1573.242,        41
+Unannotated,  CCBS,   8,   0,  18,   322.136,  1571.970,       268
+  Annotated, PSIPP,   8,   0,  19,   223.280,  1224.544,        34
+Unannotated,  CCBS,   8,   0,  19,   223.280,  1224.544,       172
+  Annotated, PSIPP,   8,   0,  20,   304.131,  1293.415,        37
+Unannotated,  CCBS,   8,   0,  20,   304.131,  1293.415,       108
+  Annotated, PSIPP,   8,   0,  21,   310.128,  1342.194,        39
+Unannotated,  CCBS,   8,   0,  21,   310.119,  1341.748,       200
+  Annotated, PSIPP,   8,   0,  22,   250.395,  1059.172,        34
+Unannotated,  CCBS,   8,   0,  22,   250.395,  1058.982,       186
+  Annotated, PSIPP,   8,   0,  23,   217.092,  1138.012,        32
+Unannotated,  CCBS,   8,   0,  23,   217.092,  1137.904,        66
+  Annotated, PSIPP,   8,   0,  24,   265.717,  1127.088,        34
+Unannotated,  CCBS,   8,   0,  24,   265.717,  1127.088,        86
+  Annotated, PSIPP,   9,   0,   0,   279.620,  1268.981,       436
+Unannotated,  CCBS,   9,   0,   0,   279.620,  1268.981,       146
+  Annotated, PSIPP,   9,   0,   1,   218.301,   951.741,       378
+Unannotated,  CCBS,   9,   0,   1,   218.301,   951.741,        86
+  Annotated, PSIPP,   9,   0,   2,   263.796,  1367.674,       133
+Unannotated,  CCBS,   9,   0,   2,   263.796,  1367.602,      5659
+  Annotated, PSIPP,   9,   0,   4,   163.153,   894.107,       825
+Unannotated,  CCBS,   9,   0,   4,   163.153,   894.107,        63
+  Annotated, PSIPP,   9,   0,   5,   262.377,  1079.582,      2383
+Unannotated,  CCBS,   9,   0,   5,   261.763,  1078.820,       100
+  Annotated, PSIPP,   9,   0,   6,   258.480,  1230.284,      1426
+Unannotated,  CCBS,   9,   0,   6,   257.853,  1229.963,     11345
+  Annotated, PSIPP,   9,   0,   7,   251.483,  1416.124,      1550
+Unannotated,  CCBS,   9,   0,   7,   251.483,  1416.124,      2048
+  Annotated, PSIPP,   9,   0,   9,   280.605,  1270.241,       292
+Unannotated,  CCBS,   9,   0,   9,   280.605,  1270.241,        60
+  Annotated, PSIPP,   9,   0,  10,   253.453,  1518.661,       884
+Unannotated,  CCBS,   9,   0,  10,    -1.000,    -1.000,     30084
+  Annotated, PSIPP,   9,   0,  11,   239.185,  1061.483,       471
+Unannotated,  CCBS,   9,   0,  11,   239.185,  1061.483,        64
+  Annotated, PSIPP,   9,   0,  12,   277.493,  1780.156,        59
+Unannotated,  CCBS,   9,   0,  12,   277.870,  1779.406,     10090
+  Annotated, PSIPP,   9,   0,  13,   308.383,  1689.643,        41
+Unannotated,  CCBS,   9,   0,  13,   308.782,  1689.643,       212
+  Annotated, PSIPP,   9,   0,  14,   315.881,  1398.965,       596
+Unannotated,  CCBS,   9,   0,  14,   315.881,  1398.965,       105
+  Annotated, PSIPP,   9,   0,  15,   267.541,  1450.512,      1345
+Unannotated,  CCBS,   9,   0,  15,   267.541,  1450.103,       767
+  Annotated, PSIPP,   9,   0,  16,   252.483,  1233.524,       420
+  Annotated, PSIPP,   9,   0,  17,   301.832,  1621.656,       212
+Unannotated,  CCBS,   9,   0,  17,   301.783,  1620.666,      4834
+  Annotated, PSIPP,   9,   0,  18,   322.136,  1679.281,        42
+Unannotated,  CCBS,   9,   0,  18,   322.136,  1678.008,       381
+  Annotated, PSIPP,   9,   0,  19,   248.925,  1473.469,        40
+Unannotated,  CCBS,   9,   0,  19,   248.925,  1473.469,      3392
+  Annotated, PSIPP,   9,   0,  20,   304.131,  1527.829,        39
+Unannotated,  CCBS,   9,   0,  20,   304.131,  1527.829,       114
+  Annotated, PSIPP,   9,   0,  21,   310.128,  1415.103,        40
+Unannotated,  CCBS,   9,   0,  21,   310.119,  1414.657,       207
+  Annotated, PSIPP,   9,   0,  22,   250.395,  1242.894,        38
+Unannotated,  CCBS,   9,   0,  22,   250.430,  1166.886,       446
+  Annotated, PSIPP,   9,   0,  23,   217.092,  1265.189,        32
+Unannotated,  CCBS,   9,   0,  23,   217.092,  1265.081,        78
+  Annotated, PSIPP,   9,   0,  24,   265.717,  1259.004,        36
+Unannotated,  CCBS,   9,   0,  24,   265.717,  1259.004,       196
+  Annotated, PSIPP,  10,   0,   0,   279.620,  1386.601,      1258
+Unannotated,  CCBS,  10,   0,   0,   279.620,  1386.601,       150
+  Annotated, PSIPP,  10,   0,   1,   218.301,  1090.917,        32
+Unannotated,  CCBS,  10,   0,   1,   218.301,  1090.917,        86
+  Annotated, PSIPP,  10,   0,   2,   263.796,  1379.613,        45
+Unannotated,  CCBS,  10,   0,   2,   263.796,  1379.541,      5731
+  Annotated, PSIPP,  10,   0,   4,   163.153,  1031.885,      1399
+Unannotated,  CCBS,  10,   0,   4,   163.153,  1031.885,        70
+  Annotated, PSIPP,  10,   0,   5,   262.377,  1302.918,      1389
+Unannotated,  CCBS,  10,   0,   5,   261.763,  1302.156,       105
+  Annotated, PSIPP,  10,   0,   6,   258.480,  1297.090,       772
+Unannotated,  CCBS,  10,   0,   6,    -1.000,    -1.000,     30066
+  Annotated, PSIPP,  10,   0,   7,   251.483,  1614.668,      2397
+Unannotated,  CCBS,  10,   0,   7,   251.483,  1614.666,      3953
+  Annotated, PSIPP,  10,   0,   9,   280.605,  1419.312,       472
+Unannotated,  CCBS,  10,   0,   9,   280.605,  1339.847,       234
+  Annotated, PSIPP,  10,   0,  10,   253.453,  1666.946,      1095
+  Annotated, PSIPP,  10,   0,  11,   239.185,  1282.826,      1324
+Unannotated,  CCBS,  10,   0,  11,   239.185,  1282.826,        67
+  Annotated, PSIPP,  10,   0,  12,   277.493,  1834.397,        44
+Unannotated,  CCBS,  10,   0,  12,   277.870,  1833.646,     10112
+  Annotated, PSIPP,  10,   0,  13,   308.383,  1875.744,        44
+Unannotated,  CCBS,  10,   0,  13,   308.782,  1874.934,       285
+  Annotated, PSIPP,  10,   0,  14,    -1.000,    -1.000,       376
+Unannotated,  CCBS,  10,   0,  14,    -1.000,    -1.000,        91
+  Annotated, PSIPP,  10,   0,  15,   267.541,  1572.984,      1089
+Unannotated,  CCBS,  10,   0,  15,   267.541,  1572.574,       772
+  Annotated, PSIPP,  10,   0,  16,   252.483,  1455.031,       363
+  Annotated, PSIPP,  10,   0,  17,   301.832,  1807.223,       145
+Unannotated,  CCBS,  10,   0,  17,    -1.000,    -1.000,     30065
+  Annotated, PSIPP,  10,   0,  18,   329.167,  2008.448,        41
+Unannotated,  CCBS,  10,   0,  18,   329.167,  2007.175,       387
+  Annotated, PSIPP,  10,   0,  19,   248.925,  1668.901,        46
+Unannotated,  CCBS,  10,   0,  19,   248.925,  1668.901,      5697
+  Annotated, PSIPP,  10,   0,  20,   304.131,  1830.351,        46
+Unannotated,  CCBS,  10,   0,  20,   304.271,  1829.883,      1647
+  Annotated, PSIPP,  10,   0,  21,   310.128,  1512.527,        41
+Unannotated,  CCBS,  10,   0,  21,   310.119,  1512.081,       209
+  Annotated, PSIPP,  10,   0,  22,   250.395,  1350.885,        40
+Unannotated,  CCBS,  10,   0,  22,   250.430,  1274.877,       447
+  Annotated, PSIPP,  10,   0,  23,   217.092,  1395.572,        35
+Unannotated,  CCBS,  10,   0,  23,   217.092,  1395.143,       300
+  Annotated, PSIPP,  10,   0,  24,   265.717,  1401.836,        38
+Unannotated,  CCBS,  10,   0,  24,   265.773,  1401.669,       242
+  Annotated, PSIPP,  11,   0,   0,   279.620,  1411.274,       610
+Unannotated,  CCBS,  11,   0,   0,   279.620,  1411.274,       156
+  Annotated, PSIPP,  11,   0,   1,   218.301,  1180.966,       434
+Unannotated,  CCBS,  11,   0,   1,   218.301,  1180.966,        92
+  Annotated, PSIPP,  11,   0,   2,   263.796,  1560.990,        43
+Unannotated,  CCBS,  11,   0,   2,    -1.000,    -1.000,     30073
+  Annotated, PSIPP,  11,   0,   4,   163.153,  1149.791,      1589
+Unannotated,  CCBS,  11,   0,   4,   163.153,  1149.791,        87
+  Annotated, PSIPP,  11,   0,   5,   262.377,  1417.638,      1986
+Unannotated,  CCBS,  11,   0,   5,   261.763,  1416.876,       112
+  Annotated, PSIPP,  11,   0,   6,   258.480,  1303.073,       660
+  Annotated, PSIPP,  11,   0,   7,   251.483,  1805.661,      1338
+Unannotated,  CCBS,  11,   0,   7,   251.483,  1805.523,      5357
+  Annotated, PSIPP,  11,   0,   9,   290.757,  1710.068,       112
+Unannotated,  CCBS,  11,   0,   9,    -1.000,    -1.000,     30081
+  Annotated, PSIPP,  11,   0,  10,   253.453,  1777.292,      1302
+  Annotated, PSIPP,  11,   0,  11,   239.185,  1493.093,       446
+Unannotated,  CCBS,  11,   0,  11,   239.185,  1493.093,        75
+  Annotated, PSIPP,  11,   0,  12,   277.493,  1913.411,        45
+Unannotated,  CCBS,  11,   0,  12,   277.870,  1912.661,     10264
+  Annotated, PSIPP,  11,   0,  13,   308.383,  2076.847,        46
+Unannotated,  CCBS,  11,   0,  13,   308.782,  2076.036,       295
+  Annotated, PSIPP,  11,   0,  15,   308.886,  1881.869,       933
+Unannotated,  CCBS,  11,   0,  15,    -1.000,    -1.000,     30074
+  Annotated, PSIPP,  11,   0,  16,   252.483,  1613.793,       469
+  Annotated, PSIPP,  11,   0,  17,   301.832,  2018.239,       153
+  Annotated, PSIPP,  11,   0,  18,   329.167,  2219.292,        49
+Unannotated,  CCBS,  11,   0,  18,   329.167,  2218.019,       406
+  Annotated, PSIPP,  11,   0,  19,   248.925,  1850.148,        48
+Unannotated,  CCBS,  11,   0,  19,   248.925,  1850.148,     27233
+  Annotated, PSIPP,  11,   0,  20,   304.131,  1918.422,        48
+Unannotated,  CCBS,  11,   0,  20,   304.271,  1897.499,      1726
+  Annotated, PSIPP,  11,   0,  21,   310.128,  1719.193,        47
+Unannotated,  CCBS,  11,   0,  21,   310.211,  1646.953,      2869
+  Annotated, PSIPP,  11,   0,  22,   250.395,  1434.762,        41
+Unannotated,  CCBS,  11,   0,  22,   250.430,  1358.652,      1434
+  Annotated, PSIPP,  11,   0,  23,   217.092,  1526.491,        35
+Unannotated,  CCBS,  11,   0,  23,   217.092,  1526.061,       252
+  Annotated, PSIPP,  11,   0,  24,   265.717,  1595.555,        40
+Unannotated,  CCBS,  11,   0,  24,   265.773,  1595.388,       250
+  Annotated, PSIPP,  12,   0,   0,   279.620,  1521.246,       258
+Unannotated,  CCBS,  12,   0,   0,   279.620,  1521.246,       170
+  Annotated, PSIPP,  12,   0,   1,   234.376,  1415.342,      1150
+Unannotated,  CCBS,  12,   0,   1,   234.376,  1415.342,       100
+  Annotated, PSIPP,  12,   0,   2,   263.796,  1774.349,        64
+  Annotated, PSIPP,  12,   0,   4,   165.594,  1315.385,      1382
+Unannotated,  CCBS,  12,   0,   4,   165.118,  1315.385,        86
+  Annotated, PSIPP,  12,   0,   5,   262.377,  1580.306,      1739
+Unannotated,  CCBS,  12,   0,   5,   261.763,  1579.544,       157
+  Annotated, PSIPP,  12,   0,   6,   258.480,  1449.096,       443
+  Annotated, PSIPP,  12,   0,   7,   251.483,  1943.274,       385
+Unannotated,  CCBS,  12,   0,   7,   251.483,  1943.136,      6084
+  Annotated, PSIPP,  12,   0,   9,   290.757,  1744.044,       637
+  Annotated, PSIPP,  12,   0,  10,   253.453,  2007.240,       889
+  Annotated, PSIPP,  12,   0,  11,   239.185,  1710.799,       588
+Unannotated,  CCBS,  12,   0,  11,   239.185,  1710.799,       104
+  Annotated, PSIPP,  12,   0,  12,   277.493,  1962.830,        46
+Unannotated,  CCBS,  12,   0,  12,   277.870,  1962.080,     10412
+  Annotated, PSIPP,  12,   0,  13,   308.383,  2211.966,        49
+Unannotated,  CCBS,  12,   0,  13,   308.513,  2162.223,      1107
+  Annotated, PSIPP,  12,   0,  15,   308.886,  2040.324,      1625
+  Annotated, PSIPP,  12,   0,  16,   252.483,  1759.607,       369
+  Annotated, PSIPP,  12,   0,  17,   301.832,  2260.076,       142
+  Annotated, PSIPP,  12,   0,  18,   329.167,  2373.040,        53
+Unannotated,  CCBS,  12,   0,  18,   329.167,  2371.564,      4239
+  Annotated, PSIPP,  12,   0,  19,   248.925,  1955.615,        48
+Unannotated,  CCBS,  12,   0,  19,   248.925,  1955.615,     28365
+  Annotated, PSIPP,  12,   0,  20,   304.131,  2139.557,        52
+Unannotated,  CCBS,  12,   0,  20,   304.271,  2118.634,      4452
+  Annotated, PSIPP,  12,   0,  21,   310.128,  1955.255,        50
+Unannotated,  CCBS,  12,   0,  21,   310.219,  1882.832,     13274
+  Annotated, PSIPP,  12,   0,  22,   250.395,  1624.163,        42
+Unannotated,  CCBS,  12,   0,  22,   250.430,  1548.053,      1550
+  Annotated, PSIPP,  12,   0,  23,   248.881,  1775.372,        41
+Unannotated,  CCBS,  12,   0,  23,   248.627,  1774.847,      1249
+  Annotated, PSIPP,  12,   0,  24,   265.717,  1642.130,        43
+Unannotated,  CCBS,  12,   0,  24,   265.773,  1641.963,       278
+  Annotated, PSIPP,  13,   0,   0,   279.620,  1636.697,       782
+Unannotated,  CCBS,  13,   0,   0,   279.620,  1636.697,       177
+  Annotated, PSIPP,  13,   0,   1,   234.376,  1561.397,        78
+Unannotated,  CCBS,  13,   0,   1,   234.376,  1561.397,       106
+  Annotated, PSIPP,  13,   0,   2,   263.796,  1904.836,        62
+  Annotated, PSIPP,  13,   0,   4,   227.879,  1543.264,      3624
+Unannotated,  CCBS,  13,   0,   4,   227.624,  1543.080,       161
+  Annotated, PSIPP,  13,   0,   5,   262.377,  1771.949,      1585
+Unannotated,  CCBS,  13,   0,   5,   262.377,  1771.783,      1493
+  Annotated, PSIPP,  13,   0,   6,   258.480,  1622.957,      1367
+  Annotated, PSIPP,  13,   0,   7,   251.483,  2043.480,      1553
+Unannotated,  CCBS,  13,   0,   7,   251.483,  2043.343,      6097
+  Annotated, PSIPP,  13,   0,   9,   290.757,  1765.551,       208
+  Annotated, PSIPP,  13,   0,  10,   258.610,  2265.850,      1637
+  Annotated, PSIPP,  13,   0,  11,   239.185,  1777.430,       139
+Unannotated,  CCBS,  13,   0,  11,   239.185,  1777.430,       109
+  Annotated, PSIPP,  13,   0,  12,   277.493,  2158.204,        47
+Unannotated,  CCBS,  13,   0,  12,   277.870,  2157.454,     10486
+  Annotated, PSIPP,  13,   0,  13,   308.383,  2397.346,        51
+Unannotated,  CCBS,  13,   0,  13,   308.513,  2347.603,      1119
+  Annotated, PSIPP,  13,   0,  15,   308.886,  2339.698,       663
+  Annotated, PSIPP,  13,   0,  16,   252.483,  1972.652,       364
+  Annotated, PSIPP,  13,   0,  17,   301.832,  2386.971,       112
+  Annotated, PSIPP,  13,   0,  18,   329.167,  2457.713,        56
+Unannotated,  CCBS,  13,   0,  18,    -1.000,    -1.000,     30082
+  Annotated, PSIPP,  13,   0,  19,   248.925,  2168.158,        39
+Unannotated,  CCBS,  13,   0,  19,    -1.000,    -1.000,     30104
+  Annotated, PSIPP,  13,   0,  20,   304.131,  2312.649,        53
+Unannotated,  CCBS,  13,   0,  20,   304.271,  2291.692,      4467
+  Annotated, PSIPP,  13,   0,  21,    -1.000,    -1.000,        52
+Unannotated,  CCBS,  13,   0,  21,    -1.000,    -1.000,        87
+  Annotated, PSIPP,  13,   0,  22,   277.746,  1901.909,        50
+Unannotated,  CCBS,  13,   0,  22,    -1.000,    -1.000,     30083
+  Annotated, PSIPP,  13,   0,  23,   248.881,  1890.721,        39
+Unannotated,  CCBS,  13,   0,  23,   248.627,  1890.197,      1250
+  Annotated, PSIPP,  13,   0,  24,   265.717,  1752.089,        42
+Unannotated,  CCBS,  13,   0,  24,   265.773,  1751.922,       278
+  Annotated, PSIPP,  14,   0,   0,   279.620,  1830.057,       783
+Unannotated,  CCBS,  14,   0,   0,   279.620,  1830.057,       255
+  Annotated, PSIPP,  14,   0,   1,   234.376,  1655.498,       151
+Unannotated,  CCBS,  14,   0,   1,   234.376,  1655.498,       114
+  Annotated, PSIPP,  14,   0,   2,   263.796,  1956.234,        68
+  Annotated, PSIPP,  14,   0,   4,   227.879,  1578.310,      1687
+Unannotated,  CCBS,  14,   0,   4,   227.624,  1578.126,       142
+  Annotated, PSIPP,  14,   0,   5,   262.377,  1971.965,       953
+Unannotated,  CCBS,  14,   0,   5,   262.377,  1962.232,      1966
+  Annotated, PSIPP,  14,   0,   6,   258.480,  1750.332,      1739
+  Annotated, PSIPP,  14,   0,   7,   251.483,  2226.815,      1002
+Unannotated,  CCBS,  14,   0,   7,   251.483,  2226.678,      6299
+  Annotated, PSIPP,  14,   0,   9,   305.660,  2071.211,       132
+  Annotated, PSIPP,  14,   0,  10,   258.610,  2402.118,      1467
+  Annotated, PSIPP,  14,   0,  11,   239.185,  1931.042,       328
+Unannotated,  CCBS,  14,   0,  11,   239.185,  1931.042,       116
+  Annotated, PSIPP,  14,   0,  12,   277.493,  2315.890,        49
+Unannotated,  CCBS,  14,   0,  12,    -1.000,    -1.000,     30090
+  Annotated, PSIPP,  14,   0,  13,   308.383,  2533.713,        46
+Unannotated,  CCBS,  14,   0,  13,   308.513,  2483.970,      1132
+  Annotated, PSIPP,  14,   0,  15,   308.886,  2400.913,       835
+  Annotated, PSIPP,  14,   0,  16,   252.483,  2011.532,       489
+  Annotated, PSIPP,  14,   0,  17,   301.832,  2513.657,       115
+  Annotated, PSIPP,  14,   0,  18,   329.167,  2501.834,        57
+  Annotated, PSIPP,  14,   0,  19,   248.925,  2272.870,        55
+  Annotated, PSIPP,  14,   0,  20,   304.131,  2385.230,        55
+Unannotated,  CCBS,  14,   0,  20,    -1.000,    -1.000,     30088
+  Annotated, PSIPP,  14,   0,  22,   277.746,  1988.054,        45
+  Annotated, PSIPP,  14,   0,  23,   248.881,  2085.552,        37
+Unannotated,  CCBS,  14,   0,  23,    -1.000,    -1.000,     30098
+  Annotated, PSIPP,  14,   0,  24,   265.717,  1881.933,        32
+Unannotated,  CCBS,  14,   0,  24,   265.773,  1881.767,       301
+  Annotated, PSIPP,  15,   0,   0,   299.089,  2129.146,      1277
+Unannotated,  CCBS,  15,   0,   0,   299.089,  2129.146,       721
+  Annotated, PSIPP,  15,   0,   1,   234.376,  1813.059,       249
+Unannotated,  CCBS,  15,   0,   1,   234.376,  1812.753,       195
+  Annotated, PSIPP,  15,   0,   2,   263.796,  2141.454,       204
+  Annotated, PSIPP,  15,   0,   4,   227.879,  1751.790,       432
+Unannotated,  CCBS,  15,   0,   4,   227.624,  1751.606,       150
+  Annotated, PSIPP,  15,   0,   5,   262.377,  2155.204,      2036
+Unannotated,  CCBS,  15,   0,   5,   262.377,  2028.926,      3957
+  Annotated, PSIPP,  15,   0,   6,   258.480,  1923.045,      1841
+  Annotated, PSIPP,  15,   0,   7,   251.483,  2338.748,      1483
+Unannotated,  CCBS,  15,   0,   7,   251.483,  2338.611,      6319
+  Annotated, PSIPP,  15,   0,   9,   305.660,  2229.832,      1291
+  Annotated, PSIPP,  15,   0,  10,   258.610,  2543.547,       833
+  Annotated, PSIPP,  15,   0,  11,   239.185,  2009.342,        52
+Unannotated,  CCBS,  15,   0,  11,   239.185,  2009.342,       121
+  Annotated, PSIPP,  15,   0,  12,   277.493,  2436.405,        50
+  Annotated, PSIPP,  15,   0,  13,   308.383,  2729.895,        58
+Unannotated,  CCBS,  15,   0,  13,   308.513,  2680.122,      4727
+  Annotated, PSIPP,  15,   0,  15,   308.886,  2618.755,       510
+  Annotated, PSIPP,  15,   0,  16,   252.483,  2179.256,       259
+  Annotated, PSIPP,  15,   0,  17,   301.832,  2585.255,       110
+  Annotated, PSIPP,  15,   0,  18,   329.167,  2529.597,        54
+  Annotated, PSIPP,  15,   0,  19,   248.925,  2314.845,        54
+  Annotated, PSIPP,  15,   0,  20,   304.131,  2454.085,        55
+  Annotated, PSIPP,  15,   0,  22,   277.746,  2093.250,        50
+  Annotated, PSIPP,  15,   0,  23,   248.881,  2251.627,        48
+  Annotated, PSIPP,  15,   0,  24,   265.717,  1935.752,        42
+Unannotated,  CCBS,  15,   0,  24,   265.773,  1935.585,       294
+  Annotated, PSIPP,  16,   0,   0,   299.089,  2346.440,      1678
+Unannotated,  CCBS,  16,   0,   0,   299.089,  2346.440,      3131
+  Annotated, PSIPP,  16,   0,   1,   234.376,  1977.100,       203
+Unannotated,  CCBS,  16,   0,   1,   234.376,  1975.939,       690
+  Annotated, PSIPP,  16,   0,   2,   298.103,  2439.558,       133
+  Annotated, PSIPP,  16,   0,   4,   299.229,  2051.019,      1695
+Unannotated,  CCBS,  16,   0,   4,   297.477,  2050.223,       625
+  Annotated, PSIPP,  16,   0,   5,   262.377,  2392.190,       670
+Unannotated,  CCBS,  16,   0,   5,    -1.000,    -1.000,     30103
+  Annotated, PSIPP,  16,   0,   6,   258.480,  2034.747,      1890
+  Annotated, PSIPP,  16,   0,   7,   251.483,  2407.561,       905
+Unannotated,  CCBS,  16,   0,   7,   251.483,  2407.424,      6373
+  Annotated, PSIPP,  16,   0,   9,   305.660,  2387.413,       707
+  Annotated, PSIPP,  16,   0,  10,   258.610,  2603.837,       897
+  Annotated, PSIPP,  16,   0,  11,   239.185,  2122.024,        52
+Unannotated,  CCBS,  16,   0,  11,   239.185,  2122.024,       133
+  Annotated, PSIPP,  16,   0,  12,   277.493,  2459.922,        62
+  Annotated, PSIPP,  16,   0,  13,   308.383,  2909.750,        70
+Unannotated,  CCBS,  16,   0,  13,    -1.000,    -1.000,     30126
+  Annotated, PSIPP,  16,   0,  15,   308.886,  2859.976,      1219
+  Annotated, PSIPP,  16,   0,  16,   252.483,  2365.941,       492
+  Annotated, PSIPP,  16,   0,  17,   301.832,  2862.175,       103
+  Annotated, PSIPP,  16,   0,  18,   329.167,  2822.583,        54
+  Annotated, PSIPP,  16,   0,  19,   248.925,  2431.176,        51
+  Annotated, PSIPP,  16,   0,  20,   304.131,  2529.272,        50
+  Annotated, PSIPP,  16,   0,  22,   277.746,  2299.518,        48
+  Annotated, PSIPP,  16,   0,  23,   248.881,  2342.358,        44
+  Annotated, PSIPP,  16,   0,  24,   265.717,  2011.085,        39
+Unannotated,  CCBS,  16,   0,  24,   265.773,  2010.918,       305
+  Annotated, PSIPP,  17,   0,   0,   299.089,  2450.130,       176
+Unannotated,  CCBS,  17,   0,   0,   299.089,  2450.130,      3141
+  Annotated, PSIPP,  17,   0,   1,   234.376,  2051.955,       299
+Unannotated,  CCBS,  17,   0,   1,   234.376,  2050.794,       700
+  Annotated, PSIPP,  17,   0,   2,   298.103,  2524.888,        94
+  Annotated, PSIPP,  17,   0,   4,   299.229,  2136.569,      2219
+Unannotated,  CCBS,  17,   0,   4,   297.477,  2088.663,       789
+  Annotated, PSIPP,  17,   0,   5,   262.377,  2432.647,      1360
+  Annotated, PSIPP,  17,   0,   6,   258.480,  2221.600,       885
+  Annotated, PSIPP,  17,   0,   7,   251.483,  2453.658,       778
+Unannotated,  CCBS,  17,   0,   7,   251.483,  2453.520,      6395
+  Annotated, PSIPP,  17,   0,   9,   305.660,  2461.423,       687
+  Annotated, PSIPP,  17,   0,  10,   258.610,  2706.174,       506
+  Annotated, PSIPP,  17,   0,  11,   239.185,  2273.790,       128
+Unannotated,  CCBS,  17,   0,  11,   239.185,  2273.790,       134
+  Annotated, PSIPP,  17,   0,  12,   277.493,  2533.998,        51
+  Annotated, PSIPP,  17,   0,  13,   308.383,  2939.688,        62
+  Annotated, PSIPP,  17,   0,  15,   308.886,  3077.554,      1133
+  Annotated, PSIPP,  17,   0,  16,   252.483,  2375.207,       492
+  Annotated, PSIPP,  17,   0,  17,   301.832,  2906.402,       131
+  Annotated, PSIPP,  17,   0,  18,   329.167,  2867.212,        62
+  Annotated, PSIPP,  17,   0,  19,   248.925,  2581.814,        59
+  Annotated, PSIPP,  17,   0,  20,   304.131,  2637.578,        57
+  Annotated, PSIPP,  17,   0,  22,   277.746,  2521.133,        57
+  Annotated, PSIPP,  17,   0,  23,   251.691,  2594.049,        53
+  Annotated, PSIPP,  17,   0,  24,   265.717,  2163.311,        46
+Unannotated,  CCBS,  17,   0,  24,   265.773,  2163.144,       304
+  Annotated, PSIPP,  18,   0,   0,   299.089,  2682.783,       763
+Unannotated,  CCBS,  18,   0,   0,   299.089,  2682.783,     14990
+  Annotated, PSIPP,  18,   0,   1,   234.376,  2182.436,       162
+Unannotated,  CCBS,  18,   0,   1,   234.376,  2181.275,       713
+  Annotated, PSIPP,  18,   0,   2,   303.336,  2828.224,        63
+  Annotated, PSIPP,  18,   0,   4,   299.229,  2310.107,       260
+Unannotated,  CCBS,  18,   0,   4,   297.477,  2262.200,       796
+  Annotated, PSIPP,  18,   0,   5,   262.377,  2587.856,       403
+  Annotated, PSIPP,  18,   0,   6,   258.480,  2429.828,       979
+  Annotated, PSIPP,  18,   0,   7,   251.483,  2615.096,       391
+Unannotated,  CCBS,  18,   0,   7,   251.483,  2614.958,      6408
+  Annotated, PSIPP,  18,   0,   9,   305.660,  2547.825,       371
+  Annotated, PSIPP,  18,   0,  10,   258.610,  2861.958,       238
+  Annotated, PSIPP,  18,   0,  11,   239.185,  2424.008,        68
+Unannotated,  CCBS,  18,   0,  11,   239.185,  2424.008,       140
+  Annotated, PSIPP,  18,   0,  12,   277.493,  2745.770,        56
+  Annotated, PSIPP,  18,   0,  13,   308.383,  3104.020,        65
+  Annotated, PSIPP,  18,   0,  15,   308.886,  3158.238,       501
+  Annotated, PSIPP,  18,   0,  16,   252.483,  2549.482,        84
+  Annotated, PSIPP,  18,   0,  17,   301.832,  3027.295,       120
+  Annotated, PSIPP,  18,   0,  18,   329.167,  2989.804,        64
+  Annotated, PSIPP,  18,   0,  19,   248.925,  2632.434,        61
+  Annotated, PSIPP,  18,   0,  20,   304.131,  2770.032,        60
+  Annotated, PSIPP,  18,   0,  22,   277.746,  2614.850,        62
+  Annotated, PSIPP,  18,   0,  23,   251.691,  2780.707,        57
+  Annotated, PSIPP,  18,   0,  24,   265.717,  2319.137,        48
+Unannotated,  CCBS,  18,   0,  24,   265.773,  2318.858,       492
+  Annotated, PSIPP,  19,   0,   0,   299.089,  2811.215,       684
+Unannotated,  CCBS,  19,   0,   0,    -1.000,    -1.000,     30120
+  Annotated, PSIPP,  19,   0,   1,   234.376,  2193.674,        38
+Unannotated,  CCBS,  19,   0,   1,   234.376,  2192.513,       718
+  Annotated, PSIPP,  19,   0,   2,   303.336,  2881.893,        68
+  Annotated, PSIPP,  19,   0,   4,   299.229,  2584.135,      1442
+Unannotated,  CCBS,  19,   0,   4,   299.229,  2536.841,      6401
+  Annotated, PSIPP,  19,   0,   5,   262.377,  2771.033,      1094
+  Annotated, PSIPP,  19,   0,   6,   258.480,  2540.548,      1564
+  Annotated, PSIPP,  19,   0,   7,   251.483,  2674.780,       444
+Unannotated,  CCBS,  19,   0,   7,   251.483,  2674.642,      6383
+  Annotated, PSIPP,  19,   0,   9,   305.660,  2622.953,       437
+  Annotated, PSIPP,  19,   0,  10,   258.610,  3000.179,       875
+  Annotated, PSIPP,  19,   0,  11,   239.185,  2496.259,        55
+Unannotated,  CCBS,  19,   0,  11,   239.185,  2496.259,       165
+  Annotated, PSIPP,  19,   0,  12,   277.493,  2757.540,        69
+  Annotated, PSIPP,  19,   0,  13,   308.383,  3347.253,        88
+  Annotated, PSIPP,  19,   0,  15,   308.886,  3234.903,      1207
+  Annotated, PSIPP,  19,   0,  16,   297.146,  2846.628,       350
+  Annotated, PSIPP,  19,   0,  17,   301.832,  3103.173,       120
+  Annotated, PSIPP,  19,   0,  18,   329.167,  3135.694,        67
+  Annotated, PSIPP,  19,   0,  19,   248.925,  2759.006,        63
+  Annotated, PSIPP,  19,   0,  20,   304.131,  2931.060,        64
+  Annotated, PSIPP,  19,   0,  22,   277.746,  2651.313,        69
+  Annotated, PSIPP,  19,   0,  23,   265.069,  3045.776,        67
+  Annotated, PSIPP,  19,   0,  24,   265.717,  2370.397,        53
+Unannotated,  CCBS,  19,   0,  24,   265.773,  2370.118,      7422
+  Annotated, PSIPP,  20,   0,   0,   299.089,  2976.855,       839
+  Annotated, PSIPP,  20,   0,   1,   234.376,  2364.612,        45
+Unannotated,  CCBS,  20,   0,   1,   234.376,  2363.451,       723
+  Annotated, PSIPP,  20,   0,   2,   303.336,  2993.250,        80
+  Annotated, PSIPP,  20,   0,   4,   299.229,  2691.546,      1151
+Unannotated,  CCBS,  20,   0,   4,   299.229,  2644.252,      6449
+  Annotated, PSIPP,  20,   0,   5,   262.377,  3017.351,      1093
+  Annotated, PSIPP,  20,   0,   6,   258.480,  2671.528,       729
+  Annotated, PSIPP,  20,   0,   7,   251.483,  2800.832,       572
+Unannotated,  CCBS,  20,   0,   7,   251.483,  2800.694,     12375
+  Annotated, PSIPP,  20,   0,   9,   305.660,  2777.767,       458
+  Annotated, PSIPP,  20,   0,  10,   258.610,  3180.251,       701
+  Annotated, PSIPP,  20,   0,  11,   239.185,  2688.137,        58
+Unannotated,  CCBS,  20,   0,  11,   239.185,  2688.087,       347
+  Annotated, PSIPP,  20,   0,  12,   277.493,  2823.454,        60
+  Annotated, PSIPP,  20,   0,  13,   308.383,  3398.969,        73
+  Annotated, PSIPP,  20,   0,  15,   308.886,  3375.916,       492
+  Annotated, PSIPP,  20,   0,  16,   297.146,  3047.520,       644
+  Annotated, PSIPP,  20,   0,  17,   301.832,  3324.855,       107
+  Annotated, PSIPP,  20,   0,  18,   329.167,  3191.623,        66
+  Annotated, PSIPP,  20,   0,  19,   248.925,  2826.370,        62
+  Annotated, PSIPP,  20,   0,  20,   304.131,  3113.689,        63
+  Annotated, PSIPP,  20,   0,  22,   277.746,  2796.784,        62
+  Annotated, PSIPP,  20,   0,  23,   265.069,  3289.020,        68
+  Annotated, PSIPP,  20,   0,  24,   265.717,  2387.609,        50
+Unannotated,  CCBS,  20,   0,  24,   265.773,  2387.331,      7305
+  Annotated, PSIPP,  21,   0,   0,   299.089,  3079.334,      1087
+  Annotated, PSIPP,  21,   0,   1,   234.376,  2412.345,        48
+Unannotated,  CCBS,  21,   0,   1,   234.376,  2411.184,       731
+  Annotated, PSIPP,  21,   0,   2,   303.336,  3120.732,       106
+  Annotated, PSIPP,  21,   0,   4,   299.229,  2767.479,       728
+Unannotated,  CCBS,  21,   0,   4,   299.229,  2720.185,     20486
+  Annotated, PSIPP,  21,   0,   5,   262.377,  3163.427,      1158
+  Annotated, PSIPP,  21,   0,   6,   258.480,  2735.558,      1034
+  Annotated, PSIPP,  21,   0,   7,   298.188,  3099.020,      1269
+Unannotated,  CCBS,  21,   0,   7,    -1.000,    -1.000,     30140
+  Annotated, PSIPP,  21,   0,   9,   305.660,  2935.459,       559
+  Annotated, PSIPP,  21,   0,  10,   258.610,  3415.331,       718
+  Annotated, PSIPP,  21,   0,  11,   239.185,  2883.232,       829
+Unannotated,  CCBS,  21,   0,  11,   239.185,  2882.151,       437
+  Annotated, PSIPP,  21,   0,  12,   277.493,  2854.651,        59
+  Annotated, PSIPP,  21,   0,  13,   308.383,  3485.216,        73
+  Annotated, PSIPP,  21,   0,  15,   308.886,  3479.677,       581
+  Annotated, PSIPP,  21,   0,  16,   297.146,  3303.752,       441
+  Annotated, PSIPP,  21,   0,  17,   301.832,  3459.425,       165
+  Annotated, PSIPP,  21,   0,  18,   329.167,  3266.873,        67
+  Annotated, PSIPP,  21,   0,  19,   248.925,  2875.606,        63
+  Annotated, PSIPP,  21,   0,  20,   304.131,  3336.044,        67
+  Annotated, PSIPP,  21,   0,  22,   277.746,  2986.942,        64
+  Annotated, PSIPP,  21,   0,  23,   265.069,  3440.884,        72
+  Annotated, PSIPP,  21,   0,  24,   265.717,  2592.318,        53
+Unannotated,  CCBS,  21,   0,  24,    -1.000,    -1.000,     30132
+  Annotated, PSIPP,  22,   0,   0,   299.089,  3129.463,       882
+  Annotated, PSIPP,  22,   0,   1,   234.376,  2624.340,       439
+Unannotated,  CCBS,  22,   0,   1,   234.376,  2623.179,      2043
+  Annotated, PSIPP,  22,   0,   2,   303.336,  3337.904,       208
+  Annotated, PSIPP,  22,   0,   4,   299.229,  2918.366,       585
+Unannotated,  CCBS,  22,   0,   4,   299.229,  2871.067,     26490
+  Annotated, PSIPP,  22,   0,   5,   270.734,  3434.161,       357
+  Annotated, PSIPP,  22,   0,   6,   258.480,  2913.574,       583
+  Annotated, PSIPP,  22,   0,   7,   298.188,  3116.058,      1869
+  Annotated, PSIPP,  22,   0,   9,   305.660,  3142.922,       348
+  Annotated, PSIPP,  22,   0,  10,   291.338,  3706.668,       947
+  Annotated, PSIPP,  22,   0,  11,   239.185,  3069.207,       315
+Unannotated,  CCBS,  22,   0,  11,   239.185,  3068.126,       453
+  Annotated, PSIPP,  22,   0,  12,   277.493,  2933.546,        57
+  Annotated, PSIPP,  22,   0,  13,   308.383,  3664.970,        75
+  Annotated, PSIPP,  22,   0,  15,   308.886,  3519.611,       301
+  Annotated, PSIPP,  22,   0,  16,   297.146,  3404.299,       377
+  Annotated, PSIPP,  22,   0,  17,   301.832,  3602.724,       129
+  Annotated, PSIPP,  22,   0,  18,   329.167,  3413.702,        67
+  Annotated, PSIPP,  22,   0,  19,   248.925,  3057.349,        65
+  Annotated, PSIPP,  22,   0,  20,   304.131,  3607.047,        73
+  Annotated, PSIPP,  22,   0,  22,   277.746,  3227.168,        67
+  Annotated, PSIPP,  22,   0,  23,   265.069,  3598.897,        73
+  Annotated, PSIPP,  22,   0,  24,   265.717,  2692.344,        56
+  Annotated, PSIPP,  23,   0,   0,   299.089,  3219.909,       582
+  Annotated, PSIPP,  23,   0,   1,   234.376,  2810.515,        58
+Unannotated,  CCBS,  23,   0,   1,   234.376,  2809.355,      5533
+  Annotated, PSIPP,  23,   0,   2,   303.336,  3412.852,       166
+  Annotated, PSIPP,  23,   0,   4,   299.229,  3151.998,      1285
+Unannotated,  CCBS,  23,   0,   4,    -1.000,    -1.000,     30148
+  Annotated, PSIPP,  23,   0,   5,   270.734,  3575.436,      1455
+  Annotated, PSIPP,  23,   0,   6,   258.480,  3089.052,      1732
+  Annotated, PSIPP,  23,   0,   7,   298.188,  3118.320,       259
+  Annotated, PSIPP,  23,   0,   9,   305.660,  3316.374,       638
+  Annotated, PSIPP,  23,   0,  10,   291.338,  3745.087,      1358
+  Annotated, PSIPP,  23,   0,  11,   239.185,  3149.040,        57
+Unannotated,  CCBS,  23,   0,  11,   239.185,  3147.958,       464
+  Annotated, PSIPP,  23,   0,  12,   277.493,  2938.543,        58
+  Annotated, PSIPP,  23,   0,  13,   308.383,  3777.400,        76
+  Annotated, PSIPP,  23,   0,  15,   308.886,  3532.520,       344
+  Annotated, PSIPP,  23,   0,  16,   297.146,  3406.550,       262
+  Annotated, PSIPP,  23,   0,  17,   301.832,  3692.304,       149
+  Annotated, PSIPP,  23,   0,  18,   329.167,  3477.538,        69
+  Annotated, PSIPP,  23,   0,  19,   248.925,  3253.595,        67
+  Annotated, PSIPP,  23,   0,  20,   304.131,  3631.861,        74
+  Annotated, PSIPP,  23,   0,  22,   277.746,  3283.017,        68
+  Annotated, PSIPP,  23,   0,  23,   291.743,  3890.640,        78
+  Annotated, PSIPP,  23,   0,  24,   295.044,  2987.388,        60
+  Annotated, PSIPP,  24,   0,   0,   299.089,  3267.843,       387
+  Annotated, PSIPP,  24,   0,   1,   234.376,  3003.958,       332
+Unannotated,  CCBS,  24,   0,   1,    -1.000,    -1.000,     30148
+  Annotated, PSIPP,  24,   0,   2,   303.336,  3622.230,       357
+  Annotated, PSIPP,  24,   0,   4,   299.229,  3229.724,       985
+  Annotated, PSIPP,  24,   0,   5,   270.734,  3669.178,       976
+  Annotated, PSIPP,  24,   0,   6,    -1.000,    -1.000,      1168
+  Annotated, PSIPP,  24,   0,   7,   298.188,  3390.312,       111
+  Annotated, PSIPP,  24,   0,   9,   305.660,  3524.354,       603
+  Annotated, PSIPP,  24,   0,  10,   291.338,  3847.365,       275
+  Annotated, PSIPP,  24,   0,  11,   239.185,  3214.439,       297
+Unannotated,  CCBS,  24,   0,  11,   239.185,  3177.558,      1582
+  Annotated, PSIPP,  24,   0,  12,   304.350,  3242.893,        62
+  Annotated, PSIPP,  24,   0,  13,   308.383,  4056.943,        79
+  Annotated, PSIPP,  24,   0,  15,   308.886,  3774.522,       218
+  Annotated, PSIPP,  24,   0,  16,   297.146,  3541.136,       134
+  Annotated, PSIPP,  24,   0,  17,   301.832,  3773.397,        98
+  Annotated, PSIPP,  24,   0,  18,   329.167,  3617.006,        70
+  Annotated, PSIPP,  24,   0,  19,   248.925,  3393.086,        69
+  Annotated, PSIPP,  24,   0,  20,   304.131,  3808.909,        76
+  Annotated, PSIPP,  24,   0,  22,   277.746,  3519.894,        72
+  Annotated, PSIPP,  24,   0,  23,   291.743,  4098.689,        82
+  Annotated, PSIPP,  24,   0,  24,   295.044,  3090.816,        62
+  Annotated, PSIPP,  25,   0,   0,   299.089,  3468.612,       535
+  Annotated, PSIPP,  25,   0,   1,   234.376,  3157.031,       237
+  Annotated, PSIPP,  25,   0,   2,   303.336,  3707.992,       122
+  Annotated, PSIPP,  25,   0,   4,   299.229,  3285.688,       612
+  Annotated, PSIPP,  25,   0,   5,   270.734,  3709.521,       534
+  Annotated, PSIPP,  25,   0,   7,   298.188,  3530.539,      1250
+  Annotated, PSIPP,  25,   0,   9,   305.660,  3665.904,       984
+  Annotated, PSIPP,  25,   0,  10,   291.338,  3960.891,       353
+  Annotated, PSIPP,  25,   0,  11,   290.117,  3504.556,       178
+Unannotated,  CCBS,  25,   0,  11,   288.947,  3467.131,      3157
+  Annotated, PSIPP,  25,   0,  12,   304.350,  3472.845,        65
+  Annotated, PSIPP,  25,   0,  13,   308.383,  4238.595,        83
+  Annotated, PSIPP,  25,   0,  15,   308.886,  3943.021,       976
+  Annotated, PSIPP,  25,   0,  16,   297.146,  3672.254,       378
+  Annotated, PSIPP,  25,   0,  17,   301.832,  3918.620,       161
+  Annotated, PSIPP,  25,   0,  18,   329.167,  3776.487,        75
+  Annotated, PSIPP,  25,   0,  19,   248.925,  3537.515,        75
+  Annotated, PSIPP,  25,   0,  20,   304.131,  3914.963,        82
+  Annotated, PSIPP,  25,   0,  22,   277.746,  3636.058,        76
+  Annotated, PSIPP,  25,   0,  23,   291.743,  4178.319,        92
+  Annotated, PSIPP,  25,   0,  24,   295.044,  3282.429,        64
+  Annotated, PSIPP,  26,   0,   0,   299.089,  3553.351,       781
+  Annotated, PSIPP,  26,   0,   1,   234.376,  3222.393,        64
+  Annotated, PSIPP,  26,   0,   2,   303.336,  3882.401,       107
+  Annotated, PSIPP,  26,   0,   4,   299.229,  3370.613,       612
+  Annotated, PSIPP,  26,   0,   5,   270.734,  3768.699,       369
+  Annotated, PSIPP,  26,   0,   7,   298.188,  3672.317,      1121
+  Annotated, PSIPP,  26,   0,   9,   305.660,  3892.493,       509
+  Annotated, PSIPP,  26,   0,  10,   291.338,  4054.143,       333
+  Annotated, PSIPP,  26,   0,  11,   290.117,  3545.793,       126
+Unannotated,  CCBS,  26,   0,  11,   288.947,  3508.368,      3202
+  Annotated, PSIPP,  26,   0,  12,   304.350,  3515.578,        66
+  Annotated, PSIPP,  26,   0,  13,   308.383,  4320.144,        85
+  Annotated, PSIPP,  26,   0,  15,   308.886,  4071.790,       768
+  Annotated, PSIPP,  26,   0,  16,   297.146,  3872.371,       353
+  Annotated, PSIPP,  26,   0,  17,   301.832,  4138.777,       189
+  Annotated, PSIPP,  26,   0,  18,   329.167,  3977.147,        78
+  Annotated, PSIPP,  26,   0,  19,   248.925,  3574.173,        74
+  Annotated, PSIPP,  26,   0,  20,   304.131,  4018.362,        78
+  Annotated, PSIPP,  26,   0,  22,   277.746,  3644.807,        74
+  Annotated, PSIPP,  26,   0,  23,   291.743,  4380.224,        84
+  Annotated, PSIPP,  26,   0,  24,   295.044,  3406.412,        65
+  Annotated, PSIPP,  27,   0,   0,   299.089,  3618.323,       650
+  Annotated, PSIPP,  27,   0,   1,   234.376,  3330.463,        67
+  Annotated, PSIPP,  27,   0,   2,   303.336,  4162.709,       199
+  Annotated, PSIPP,  27,   0,   4,   299.229,  3553.711,       759
+  Annotated, PSIPP,  27,   0,   5,   270.734,  3916.291,       606
+  Annotated, PSIPP,  27,   0,   7,   298.188,  3863.808,       775
+  Annotated, PSIPP,  27,   0,   9,   305.660,  4057.711,       803
+  Annotated, PSIPP,  27,   0,  10,   291.338,  4283.837,       649
+  Annotated, PSIPP,  27,   0,  11,   290.117,  3757.803,        94
+Unannotated,  CCBS,  27,   0,  11,   288.947,  3720.617,     20441
+  Annotated, PSIPP,  27,   0,  12,   304.350,  3778.461,        68
+  Annotated, PSIPP,  27,   0,  13,   308.383,  4475.514,        85
+  Annotated, PSIPP,  27,   0,  15,   308.886,  4203.848,       711
+  Annotated, PSIPP,  27,   0,  16,   297.146,  4050.021,       361
+  Annotated, PSIPP,  27,   0,  17,   301.832,  4241.652,       118
+  Annotated, PSIPP,  27,   0,  18,   329.167,  4127.334,        75
+  Annotated, PSIPP,  27,   0,  19,   270.515,  3844.688,        73
+  Annotated, PSIPP,  27,   0,  20,   304.131,  4237.815,        78
+  Annotated, PSIPP,  27,   0,  22,   277.746,  3762.537,        72
+  Annotated, PSIPP,  27,   0,  23,   291.743,  4555.742,        84
+  Annotated, PSIPP,  27,   0,  24,   295.044,  3493.722,        64
+  Annotated, PSIPP,  28,   0,   0,   299.089,  3733.547,       641
+  Annotated, PSIPP,  28,   0,   1,   234.376,  3470.490,        66
+  Annotated, PSIPP,  28,   0,   2,   303.336,  4174.879,       154
+  Annotated, PSIPP,  28,   0,   4,   299.229,  3667.734,      1162
+  Annotated, PSIPP,  28,   0,   5,   270.734,  4049.008,       524
+  Annotated, PSIPP,  28,   0,   7,   298.188,  3972.159,      1188
+  Annotated, PSIPP,  28,   0,   9,   305.660,  4321.409,       626
+  Annotated, PSIPP,  28,   0,  10,   291.338,  4398.421,       914
+  Annotated, PSIPP,  28,   0,  11,   290.117,  3953.024,        78
+Unannotated,  CCBS,  28,   0,  11,    -1.000,    -1.000,     30305
+  Annotated, PSIPP,  28,   0,  12,   304.350,  3866.389,        87
+  Annotated, PSIPP,  28,   0,  13,   308.383,  4589.901,        86
+  Annotated, PSIPP,  28,   0,  15,   308.886,  4464.600,       831
+  Annotated, PSIPP,  28,   0,  16,   297.146,  4206.666,       357
+  Annotated, PSIPP,  28,   0,  17,   301.832,  4443.900,        94
+  Annotated, PSIPP,  28,   0,  18,   329.167,  4297.977,        72
+  Annotated, PSIPP,  28,   0,  19,   270.515,  3897.877,        69
+  Annotated, PSIPP,  28,   0,  20,   304.131,  4249.059,        74
+  Annotated, PSIPP,  28,   0,  22,   277.746,  3933.977,        69
+  Annotated, PSIPP,  28,   0,  23,   291.743,  4800.760,        83
+  Annotated, PSIPP,  28,   0,  24,   295.044,  3538.556,        59
+  Annotated, PSIPP,  29,   0,   0,   299.089,  3855.035,       801
+  Annotated, PSIPP,  29,   0,   1,   234.376,  3613.681,       307
+  Annotated, PSIPP,  29,   0,   2,   303.336,  4341.509,       102
+  Annotated, PSIPP,  29,   0,   4,   299.229,  3685.026,       802
+  Annotated, PSIPP,  29,   0,   5,   270.734,  4301.208,       967
+  Annotated, PSIPP,  29,   0,   7,   298.188,  4226.904,       513
+  Annotated, PSIPP,  29,   0,   9,   305.660,  4517.835,       909
+  Annotated, PSIPP,  29,   0,  10,   291.338,  4645.988,       746
+  Annotated, PSIPP,  29,   0,  11,   290.117,  4086.204,        83
+  Annotated, PSIPP,  29,   0,  12,   304.350,  3965.567,        74
+  Annotated, PSIPP,  29,   0,  13,   308.383,  4763.713,        97
+  Annotated, PSIPP,  29,   0,  15,   308.886,  4525.894,      1414
+  Annotated, PSIPP,  29,   0,  16,   297.146,  4278.336,       598
+  Annotated, PSIPP,  29,   0,  17,   301.832,  4576.390,       234
+  Annotated, PSIPP,  29,   0,  18,   329.167,  4445.911,        80
+  Annotated, PSIPP,  29,   0,  19,   270.515,  4032.451,        73
+  Annotated, PSIPP,  29,   0,  20,   304.131,  4434.130,        79
+  Annotated, PSIPP,  29,   0,  22,   277.746,  4097.955,        73
+  Annotated, PSIPP,  29,   0,  23,    -1.000,    -1.000,        90
+  Annotated, PSIPP,  29,   0,  24,   295.044,  3553.226,        61
+  Annotated, PSIPP,  30,   0,   0,   299.089,  3951.592,       565
+  Annotated, PSIPP,  30,   0,   1,   234.376,  3748.298,        63
+  Annotated, PSIPP,  30,   0,   2,   303.336,  4374.121,       259
+  Annotated, PSIPP,  30,   0,   4,   299.229,  3763.649,       177
+  Annotated, PSIPP,  30,   0,   5,   270.734,  4499.325,      1056
+  Annotated, PSIPP,  30,   0,   7,   298.188,  4396.702,      1056
+  Annotated, PSIPP,  30,   0,   9,   305.660,  4581.487,       444
+  Annotated, PSIPP,  30,   0,  10,   291.338,  4698.877,       412
+  Annotated, PSIPP,  30,   0,  11,   290.117,  4179.464,        78
+  Annotated, PSIPP,  30,   0,  12,   304.350,  4027.790,        76
+  Annotated, PSIPP,  30,   0,  13,   308.383,  4834.727,        91
+  Annotated, PSIPP,  30,   0,  15,   308.886,  4756.700,       384
+  Annotated, PSIPP,  30,   0,  16,   297.146,  4556.500,       260
+  Annotated, PSIPP,  30,   0,  17,   301.832,  4695.222,       147
+  Annotated, PSIPP,  30,   0,  18,   329.167,  4574.816,        81
+  Annotated, PSIPP,  30,   0,  19,    -1.000,    -1.000,        75
+  Annotated, PSIPP,  30,   0,  20,   304.131,  4540.617,        77
+  Annotated, PSIPP,  30,   0,  22,   277.746,  4147.307,        71
+  Annotated, PSIPP,  30,   0,  24,    -1.000,    -1.000,        71
+  Annotated, PSIPP,  31,   0,   0,   299.089,  4187.784,       611
+  Annotated, PSIPP,  31,   0,   1,   234.376,  3938.872,        71
+  Annotated, PSIPP,  31,   0,   2,   303.336,  4572.296,        85
+  Annotated, PSIPP,  31,   0,   4,   299.229,  3865.432,       586
+  Annotated, PSIPP,  31,   0,   5,   270.734,  4618.886,       721
+  Annotated, PSIPP,  31,   0,   7,   298.188,  4661.579,       690
+  Annotated, PSIPP,  31,   0,   9,   305.660,  4677.306,       535
+  Annotated, PSIPP,  31,   0,  10,    -1.000,    -1.000,       504
+  Annotated, PSIPP,  31,   0,  11,   290.117,  4282.928,        73
+  Annotated, PSIPP,  31,   0,  12,   304.350,  4164.578,        71
+  Annotated, PSIPP,  31,   0,  13,   308.383,  5054.460,        88
+  Annotated, PSIPP,  31,   0,  15,   308.886,  4879.827,       828
+  Annotated, PSIPP,  31,   0,  16,   297.146,  4673.844,       356
+  Annotated, PSIPP,  31,   0,  17,   301.832,  4776.784,       207
+  Annotated, PSIPP,  31,   0,  18,   329.167,  4729.442,        80
+  Annotated, PSIPP,  31,   0,  20,   304.131,  4619.015,        79
+  Annotated, PSIPP,  31,   0,  22,   277.746,  4254.673,        72
+  Annotated, PSIPP,  32,   0,   0,   299.089,  4438.096,      1282
+  Annotated, PSIPP,  32,   0,   1,   234.376,  4098.929,        71
+  Annotated, PSIPP,  32,   0,   2,   303.336,  4716.603,       267
+  Annotated, PSIPP,  32,   0,   4,   299.229,  4021.716,       650
+  Annotated, PSIPP,  32,   0,   5,   270.734,  4832.152,      1039
+  Annotated, PSIPP,  32,   0,   7,   298.188,  4683.297,       998
+  Annotated, PSIPP,  32,   0,   9,   305.660,  4831.761,       531
+  Annotated, PSIPP,  32,   0,  11,   290.117,  4365.633,       123
+  Annotated, PSIPP,  32,   0,  12,   304.350,  4281.871,        89
+  Annotated, PSIPP,  32,   0,  13,   308.383,  5224.658,        96
+  Annotated, PSIPP,  32,   0,  15,   308.886,  4914.191,       491
+  Annotated, PSIPP,  32,   0,  16,   297.146,  4887.911,       344
+  Annotated, PSIPP,  32,   0,  17,   301.832,  4821.577,       216
+  Annotated, PSIPP,  32,   0,  18,   329.167,  4842.042,        81
+  Annotated, PSIPP,  32,   0,  20,   304.131,  4787.417,        81
+  Annotated, PSIPP,  32,   0,  22,   277.746,  4313.690,        72
+  Annotated, PSIPP,  33,   0,   0,   299.089,  4521.006,       606
+  Annotated, PSIPP,  33,   0,   1,   234.376,  4236.899,       237
+  Annotated, PSIPP,  33,   0,   2,   303.336,  4746.043,       237
+  Annotated, PSIPP,  33,   0,   4,   299.229,  4071.087,       681
+  Annotated, PSIPP,  33,   0,   5,   270.734,  4924.745,      1456
+  Annotated, PSIPP,  33,   0,   7,   298.188,  4861.240,       325
+  Annotated, PSIPP,  33,   0,   9,   305.660,  4938.012,       675
+  Annotated, PSIPP,  33,   0,  11,   290.117,  4475.484,        75
+  Annotated, PSIPP,  33,   0,  12,   304.350,  4385.731,        78
+  Annotated, PSIPP,  33,   0,  13,   308.383,  5297.479,        98
+  Annotated, PSIPP,  33,   0,  15,   308.886,  5197.157,       321
+  Annotated, PSIPP,  33,   0,  16,   297.146,  5026.775,       398
+  Annotated, PSIPP,  33,   0,  17,   301.832,  4851.664,       125
+  Annotated, PSIPP,  33,   0,  18,   329.167,  5058.321,        82
+  Annotated, PSIPP,  33,   0,  20,   304.131,  4901.893,        81
+  Annotated, PSIPP,  33,   0,  22,   277.746,  4519.512,        80
+  Annotated, PSIPP,  34,   0,   0,   299.089,  4730.562,       391
+  Annotated, PSIPP,  34,   0,   1,   234.376,  4428.801,        73
+  Annotated, PSIPP,  34,   0,   2,   303.336,  4960.596,       104
+  Annotated, PSIPP,  34,   0,   4,   299.229,  4183.509,       351
+  Annotated, PSIPP,  34,   0,   5,   270.734,  5089.941,       864
+  Annotated, PSIPP,  34,   0,   7,   298.188,  5059.813,      1046
+  Annotated, PSIPP,  34,   0,   9,   305.660,  4966.764,       359
+  Annotated, PSIPP,  34,   0,  11,   290.117,  4658.704,        84
+  Annotated, PSIPP,  34,   0,  12,   304.350,  4534.815,        81
+  Annotated, PSIPP,  34,   0,  13,   308.383,  5564.602,       103
+  Annotated, PSIPP,  34,   0,  15,   308.886,  5356.337,      1032
+  Annotated, PSIPP,  34,   0,  16,   297.146,  5038.618,       224
+  Annotated, PSIPP,  34,   0,  17,   301.832,  5003.346,       103
+  Annotated, PSIPP,  34,   0,  18,   329.167,  5271.282,        86
+  Annotated, PSIPP,  34,   0,  20,   304.131,  4925.535,        82
+  Annotated, PSIPP,  34,   0,  22,   277.746,  4568.707,        79
+  Annotated, PSIPP,  35,   0,   0,    -1.000,    -1.000,       978
+  Annotated, PSIPP,  35,   0,   1,    -1.000,    -1.000,       548
+  Annotated, PSIPP,  35,   0,   2,   303.336,  4967.257,       180
+  Annotated, PSIPP,  35,   0,   4,   299.229,  4348.022,       817
+  Annotated, PSIPP,  35,   0,   5,   270.734,  5267.625,       526
+  Annotated, PSIPP,  35,   0,   7,   298.188,  5221.657,       569
+  Annotated, PSIPP,  35,   0,   9,   305.660,  5072.681,       222
+  Annotated, PSIPP,  35,   0,  11,   290.117,  4823.948,        83
+  Annotated, PSIPP,  35,   0,  12,   304.350,  4650.471,        79
+  Annotated, PSIPP,  35,   0,  13,   308.383,  5581.435,       103
+  Annotated, PSIPP,  35,   0,  15,   308.886,  5555.240,       379
+  Annotated, PSIPP,  35,   0,  16,   297.146,  5178.097,       134
+  Annotated, PSIPP,  35,   0,  17,   301.832,  5238.986,       133
+  Annotated, PSIPP,  35,   0,  18,   329.167,  5327.040,        91
+  Annotated, PSIPP,  35,   0,  20,   304.131,  5113.824,        89
+  Annotated, PSIPP,  35,   0,  22,   277.746,  4646.459,        80
+  Annotated, PSIPP,  36,   0,   2,   303.336,  5016.537,        82
+  Annotated, PSIPP,  36,   0,   4,   299.229,  4525.556,       567
+  Annotated, PSIPP,  36,   0,   5,   270.734,  5533.557,       862
+  Annotated, PSIPP,  36,   0,   7,   298.188,  5349.738,       670
+  Annotated, PSIPP,  36,   0,   9,   305.660,  5244.022,       649
+  Annotated, PSIPP,  36,   0,  11,   290.117,  5014.154,        84
+  Annotated, PSIPP,  36,   0,  12,   304.350,  4819.884,        83
+  Annotated, PSIPP,  36,   0,  13,   308.383,  5727.383,        99
+  Annotated, PSIPP,  36,   0,  15,   308.886,  5817.693,      1198
+  Annotated, PSIPP,  36,   0,  16,   297.146,  5228.711,       377
+  Annotated, PSIPP,  36,   0,  17,   301.832,  5343.060,       149
+  Annotated, PSIPP,  36,   0,  18,   329.167,  5447.509,        95
+  Annotated, PSIPP,  36,   0,  20,   304.131,  5214.902,        90
+  Annotated, PSIPP,  36,   0,  22,   277.746,  4828.190,        82
+  Annotated, PSIPP,  37,   0,   2,   303.336,  5280.828,       115
+  Annotated, PSIPP,  37,   0,   4,   299.229,  4628.133,      1138
+  Annotated, PSIPP,  37,   0,   5,   270.734,  5651.452,      1292
+  Annotated, PSIPP,  37,   0,   7,   298.188,  5497.147,       426
+  Annotated, PSIPP,  37,   0,   9,   305.660,  5408.842,       556
+  Annotated, PSIPP,  37,   0,  11,   290.117,  5099.714,        90
+  Annotated, PSIPP,  37,   0,  12,   304.350,  5042.136,        87
+  Annotated, PSIPP,  37,   0,  13,   308.383,  5764.102,       100
+  Annotated, PSIPP,  37,   0,  15,   308.886,  6032.459,       949
+  Annotated, PSIPP,  37,   0,  16,   297.146,  5421.069,       330
+  Annotated, PSIPP,  37,   0,  17,   301.832,  5367.619,       116
+  Annotated, PSIPP,  37,   0,  18,   329.167,  5596.171,        92
+  Annotated, PSIPP,  37,   0,  20,   304.131,  5315.957,        89
+  Annotated, PSIPP,  37,   0,  22,   277.746,  5025.668,        87
+  Annotated, PSIPP,  38,   0,   2,   303.336,  5338.755,       228
+  Annotated, PSIPP,  38,   0,   4,   299.229,  4748.446,       712
+  Annotated, PSIPP,  38,   0,   5,   270.734,  5895.085,       707
+  Annotated, PSIPP,  38,   0,   7,   298.188,  5739.052,       560
+  Annotated, PSIPP,  38,   0,   9,   305.660,  5690.115,       643
+  Annotated, PSIPP,  38,   0,  11,   290.117,  5244.655,        87
+  Annotated, PSIPP,  38,   0,  12,   304.350,  5250.730,        88
+  Annotated, PSIPP,  38,   0,  13,   308.383,  5966.518,       104
+  Annotated, PSIPP,  38,   0,  15,   308.886,  6109.907,       642
+  Annotated, PSIPP,  38,   0,  16,   297.146,  5514.639,       456
+  Annotated, PSIPP,  38,   0,  17,   301.832,  5413.364,       149
+  Annotated, PSIPP,  38,   0,  18,   329.167,  5729.177,        99
+  Annotated, PSIPP,  38,   0,  20,   304.131,  5372.538,        90
+  Annotated, PSIPP,  38,   0,  22,   277.746,  5229.065,        94
+  Annotated, PSIPP,  39,   0,   2,   303.336,  5528.685,       115
+  Annotated, PSIPP,  39,   0,   4,   299.229,  4949.619,       686
+  Annotated, PSIPP,  39,   0,   5,   270.734,  5993.378,      1117
+  Annotated, PSIPP,  39,   0,   7,   298.188,  5848.137,       298
+  Annotated, PSIPP,  39,   0,   9,   305.660,  5701.791,       621
+  Annotated, PSIPP,  39,   0,  11,   290.117,  5372.382,        93
+  Annotated, PSIPP,  39,   0,  12,   304.350,  5398.030,       114
+  Annotated, PSIPP,  39,   0,  13,   308.383,  6200.146,       109
+  Annotated, PSIPP,  39,   0,  15,   308.886,  6268.295,       243
+  Annotated, PSIPP,  39,   0,  16,   297.146,  5681.314,       335
+  Annotated, PSIPP,  39,   0,  17,   301.832,  5514.870,       128
+  Annotated, PSIPP,  39,   0,  18,   329.167,  5838.354,       100
+  Annotated, PSIPP,  39,   0,  20,   304.131,  5611.110,        94
+  Annotated, PSIPP,  39,   0,  22,   277.746,  5358.269,        95
+  Annotated, PSIPP,  40,   0,   2,   303.336,  5648.759,       240
+  Annotated, PSIPP,  40,   0,   4,   299.229,  5053.699,       420
+  Annotated, PSIPP,  40,   0,   5,   270.734,  6154.930,       445
+  Annotated, PSIPP,  40,   0,   7,   298.188,  5990.717,       426
+  Annotated, PSIPP,  40,   0,   9,   305.660,  5801.646,       140
+  Annotated, PSIPP,  40,   0,  11,   290.117,  5603.026,       145
+  Annotated, PSIPP,  40,   0,  12,   304.350,  5609.992,       104
+  Annotated, PSIPP,  40,   0,  13,   308.383,  6262.697,       117
+  Annotated, PSIPP,  40,   0,  15,   308.886,  6484.923,       702
+  Annotated, PSIPP,  40,   0,  16,   297.146,  5809.614,       348
+  Annotated, PSIPP,  40,   0,  17,   301.832,  5755.544,       140
+  Annotated, PSIPP,  40,   0,  18,   329.167,  5885.007,       101
+  Annotated, PSIPP,  40,   0,  20,    -1.000,    -1.000,       114
+  Annotated, PSIPP,  40,   0,  22,   277.746,  5551.341,        97
+  Annotated, PSIPP,  41,   0,   2,   303.336,  5743.724,       233
+  Annotated, PSIPP,  41,   0,   4,   299.229,  5213.859,       479
+  Annotated, PSIPP,  41,   0,   5,   270.734,  6233.732,       938
+  Annotated, PSIPP,  41,   0,   7,   298.188,  6183.913,      1034
+  Annotated, PSIPP,  41,   0,   9,   305.660,  5856.767,       176
+  Annotated, PSIPP,  41,   0,  11,   290.117,  5670.050,       102
+  Annotated, PSIPP,  41,   0,  12,   304.350,  5720.316,       103
+  Annotated, PSIPP,  41,   0,  13,   308.383,  6447.433,       114
+  Annotated, PSIPP,  41,   0,  15,   308.886,  6632.994,       307
+  Annotated, PSIPP,  41,   0,  16,   297.146,  6052.188,       425
+  Annotated, PSIPP,  41,   0,  17,   301.832,  5958.625,       121
+  Annotated, PSIPP,  41,   0,  18,   329.167,  6020.724,        99
+  Annotated, PSIPP,  41,   0,  22,    -1.000,    -1.000,       114
+  Annotated, PSIPP,  42,   0,   2,   303.336,  6042.020,       256
+  Annotated, PSIPP,  42,   0,   4,   299.229,  5330.846,       461
+  Annotated, PSIPP,  42,   0,   5,   270.734,  6421.121,       479
+  Annotated, PSIPP,  42,   0,   7,   298.188,  6389.331,       400
+  Annotated, PSIPP,  42,   0,   9,   305.660,  5949.720,       341
+  Annotated, PSIPP,  42,   0,  11,   290.117,  5935.889,       103
+  Annotated, PSIPP,  42,   0,  12,   304.350,  5931.139,       104
+  Annotated, PSIPP,  42,   0,  13,   308.383,  6681.269,       121
+  Annotated, PSIPP,  42,   0,  15,   308.886,  6811.552,       851
+  Annotated, PSIPP,  42,   0,  16,   297.146,  6308.254,       303
+  Annotated, PSIPP,  42,   0,  17,   301.832,  6076.712,       204
+  Annotated, PSIPP,  42,   0,  18,   329.167,  6157.965,        99
+  Annotated, PSIPP,  43,   0,   2,   303.336,  6316.864,       379
+  Annotated, PSIPP,  43,   0,   4,   299.229,  5406.422,       768
+  Annotated, PSIPP,  43,   0,   5,   270.734,  6453.019,      1263
+  Annotated, PSIPP,  43,   0,   7,   298.188,  6417.208,      1023
+  Annotated, PSIPP,  43,   0,   9,   305.660,  6046.834,       632
+  Annotated, PSIPP,  43,   0,  11,   290.117,  5962.564,       104
+  Annotated, PSIPP,  43,   0,  12,   304.350,  5987.319,       100
+  Annotated, PSIPP,  43,   0,  13,   308.383,  6959.112,       127
+  Annotated, PSIPP,  43,   0,  15,   308.886,  7032.179,       514
+  Annotated, PSIPP,  43,   0,  16,   297.146,  6490.134,       424
+  Annotated, PSIPP,  43,   0,  17,   301.832,  6367.500,       252
+  Annotated, PSIPP,  43,   0,  18,   329.167,  6301.969,       108
+  Annotated, PSIPP,  44,   0,   2,   303.336,  6488.903,       192
+  Annotated, PSIPP,  44,   0,   4,   299.229,  5458.367,       588
+  Annotated, PSIPP,  44,   0,   5,   270.734,  6646.653,       438
+  Annotated, PSIPP,  44,   0,   7,   298.188,  6633.207,       369
+  Annotated, PSIPP,  44,   0,   9,   305.660,  6255.201,       404
+  Annotated, PSIPP,  44,   0,  11,   290.117,  6085.729,       104
+  Annotated, PSIPP,  44,   0,  12,   304.350,  6134.698,       106
+  Annotated, PSIPP,  44,   0,  13,    -1.000,    -1.000,       129
+  Annotated, PSIPP,  44,   0,  15,   308.886,  7286.353,       861
+  Annotated, PSIPP,  44,   0,  16,   297.146,  6599.456,       362
+  Annotated, PSIPP,  44,   0,  17,   301.832,  6526.907,       256
+  Annotated, PSIPP,  44,   0,  18,   329.167,  6479.491,       112
+  Annotated, PSIPP,  45,   0,   2,   303.336,  6727.375,       289
+  Annotated, PSIPP,  45,   0,   4,   299.229,  5627.949,       527
+  Annotated, PSIPP,  45,   0,   5,   270.734,  6685.319,       428
+  Annotated, PSIPP,  45,   0,   7,   298.188,  6821.114,       461
+  Annotated, PSIPP,  45,   0,   9,   305.660,  6448.546,       443
+  Annotated, PSIPP,  45,   0,  11,   290.117,  6176.382,       109
+  Annotated, PSIPP,  45,   0,  12,   304.350,  6285.406,       104
+  Annotated, PSIPP,  45,   0,  15,   308.886,  7457.215,      1120
+  Annotated, PSIPP,  45,   0,  16,   297.146,  6715.103,       299
+  Annotated, PSIPP,  45,   0,  17,   301.832,  6812.149,       278
+  Annotated, PSIPP,  45,   0,  18,   329.167,  6792.067,       109
+  Annotated, PSIPP,  46,   0,   2,   303.336,  6808.292,       317
+  Annotated, PSIPP,  46,   0,   4,   299.229,  5711.771,      1009
+  Annotated, PSIPP,  46,   0,   5,   270.734,  6944.390,       473
+  Annotated, PSIPP,  46,   0,   7,   298.188,  6930.500,       626
+  Annotated, PSIPP,  46,   0,   9,   305.660,  6749.958,       473
+  Annotated, PSIPP,  46,   0,  11,   290.117,  6415.961,       110
+  Annotated, PSIPP,  46,   0,  12,   304.350,  6361.562,       116
+  Annotated, PSIPP,  46,   0,  15,   308.886,  7618.498,       864
+  Annotated, PSIPP,  46,   0,  16,   297.146,  6972.434,       275
+  Annotated, PSIPP,  46,   0,  17,   301.832,  6887.684,       226
+  Annotated, PSIPP,  46,   0,  18,   329.167,  6983.131,       122
+  Annotated, PSIPP,  47,   0,   2,   303.336,  6963.727,       233
+  Annotated, PSIPP,  47,   0,   4,   299.229,  5895.119,       438
+  Annotated, PSIPP,  47,   0,   5,    -1.000,    -1.000,      1113
+  Annotated, PSIPP,  47,   0,   7,   298.188,  7148.767,       629
+  Annotated, PSIPP,  47,   0,   9,   305.660,  6900.660,       692
+  Annotated, PSIPP,  47,   0,  11,   290.117,  6521.230,       120
+  Annotated, PSIPP,  47,   0,  12,   304.350,  6532.852,       132
+  Annotated, PSIPP,  47,   0,  15,   308.886,  7639.031,       511
+  Annotated, PSIPP,  47,   0,  16,   297.146,  7113.792,       269
+  Annotated, PSIPP,  47,   0,  17,   301.832,  6996.690,       167
+  Annotated, PSIPP,  47,   0,  18,   329.167,  7190.590,       124
+  Annotated, PSIPP,  48,   0,   2,   303.336,  7096.219,       266
+  Annotated, PSIPP,  48,   0,   4,   299.229,  6115.640,       750
+  Annotated, PSIPP,  48,   0,   7,   298.188,  7330.736,      1031
+  Annotated, PSIPP,  48,   0,   9,   305.660,  7165.026,       682
+  Annotated, PSIPP,  48,   0,  11,   290.117,  6707.384,       121
+  Annotated, PSIPP,  48,   0,  12,   304.350,  6768.592,       112
+  Annotated, PSIPP,  48,   0,  15,   308.886,  7816.166,       268
+  Annotated, PSIPP,  48,   0,  16,    -1.000,    -1.000,       461
+  Annotated, PSIPP,  48,   0,  17,   301.832,  7091.316,       162
+  Annotated, PSIPP,  48,   0,  18,   329.167,  7296.761,       122
+  Annotated, PSIPP,  49,   0,   2,   303.336,  7317.123,       321
+  Annotated, PSIPP,  49,   0,   4,   299.229,  6314.403,       904
+  Annotated, PSIPP,  49,   0,   7,   298.188,  7389.507,       951
+  Annotated, PSIPP,  49,   0,   9,   305.660,  7250.623,       666
+  Annotated, PSIPP,  49,   0,  11,    -1.000,    -1.000,       420
+  Annotated, PSIPP,  49,   0,  12,   304.350,  6891.743,       114
+  Annotated, PSIPP,  49,   0,  15,   308.886,  7967.664,       952
+  Annotated, PSIPP,  49,   0,  17,   301.832,  7225.164,       218
+  Annotated, PSIPP,  49,   0,  18,   329.167,  7590.231,       127
+  Annotated, PSIPP,  50,   0,   2,   303.336,  7362.847,       196
+  Annotated, PSIPP,  50,   0,   4,   299.229,  6451.151,       188
+  Annotated, PSIPP,  50,   0,   7,   298.188,  7509.081,       560
+  Annotated, PSIPP,  50,   0,   9,   305.660,  7308.995,       571
+  Annotated, PSIPP,  50,   0,  12,   304.350,  7044.854,       115
+  Annotated, PSIPP,  50,   0,  15,   308.886,  8027.807,       526
+  Annotated, PSIPP,  50,   0,  17,   301.832,  7448.998,       167
+  Annotated, PSIPP,  50,   0,  18,   329.167,  7804.097,       135
+  Annotated, PSIPP,  51,   0,   2,   303.336,  7610.869,       172
+  Annotated, PSIPP,  51,   0,   4,   299.229,  6499.614,       763
+  Annotated, PSIPP,  51,   0,   7,   298.188,  7662.444,       494
+  Annotated, PSIPP,  51,   0,   9,   305.660,  7507.899,       415
+  Annotated, PSIPP,  51,   0,  12,   319.982,  7364.836,       125
+  Annotated, PSIPP,  51,   0,  15,   308.886,  8252.850,       538
+  Annotated, PSIPP,  51,   0,  17,   301.832,  7535.014,       163
+  Annotated, PSIPP,  51,   0,  18,   329.167,  7956.249,       135
+  Annotated, PSIPP,  52,   0,   2,   303.336,  7766.024,       291
+  Annotated, PSIPP,  52,   0,   4,   299.229,  6580.193,       421
+  Annotated, PSIPP,  52,   0,   7,   298.188,  7848.129,       756
+  Annotated, PSIPP,  52,   0,   9,   305.660,  7568.973,       356
+  Annotated, PSIPP,  52,   0,  12,   319.982,  7487.121,       127
+  Annotated, PSIPP,  52,   0,  15,   308.886,  8351.005,       819
+  Annotated, PSIPP,  52,   0,  17,   301.832,  7629.390,       198
+  Annotated, PSIPP,  52,   0,  18,   329.167,  8057.469,       139
+  Annotated, PSIPP,  53,   0,   2,   303.336,  7833.232,       290
+  Annotated, PSIPP,  53,   0,   4,   299.229,  6763.781,       625
+  Annotated, PSIPP,  53,   0,   7,   298.188,  7990.019,       359
+  Annotated, PSIPP,  53,   0,   9,   305.660,  7684.984,       414
+  Annotated, PSIPP,  53,   0,  12,   319.982,  7706.826,       178
+  Annotated, PSIPP,  53,   0,  15,   308.886,  8464.672,       524
+  Annotated, PSIPP,  53,   0,  17,   301.832,  7736.810,       267
+  Annotated, PSIPP,  53,   0,  18,   329.167,  8230.692,       140
+  Annotated, PSIPP,  54,   0,   2,   303.336,  7863.625,       135
+  Annotated, PSIPP,  54,   0,   4,   299.229,  7041.082,      1276
+  Annotated, PSIPP,  54,   0,   7,   298.188,  8020.996,       885
+  Annotated, PSIPP,  54,   0,   9,   305.660,  7940.752,       409
+  Annotated, PSIPP,  54,   0,  12,   319.982,  7821.549,       134
+  Annotated, PSIPP,  54,   0,  15,    -1.000,    -1.000,       581
+  Annotated, PSIPP,  54,   0,  17,   301.832,  7870.547,       153
+  Annotated, PSIPP,  54,   0,  18,   329.167,  8490.535,       149
+  Annotated, PSIPP,  55,   0,   2,   303.336,  8094.768,       137
+  Annotated, PSIPP,  55,   0,   4,   299.229,  7128.177,       904
+  Annotated, PSIPP,  55,   0,   7,   298.188,  8108.549,       334
+  Annotated, PSIPP,  55,   0,   9,   305.660,  8120.677,       646
+  Annotated, PSIPP,  55,   0,  12,   319.982,  7882.357,       153
+  Annotated, PSIPP,  55,   0,  17,   301.832,  7980.666,       272
+  Annotated, PSIPP,  55,   0,  18,   329.167,  8682.774,       162
+  Annotated, PSIPP,  56,   0,   2,   303.336,  8327.321,       205
+  Annotated, PSIPP,  56,   0,   4,   299.229,  7239.677,       595
+  Annotated, PSIPP,  56,   0,   7,   298.188,  8360.963,       578
+  Annotated, PSIPP,  56,   0,   9,   305.660,  8331.827,       619
+  Annotated, PSIPP,  56,   0,  12,   319.982,  7954.325,       136
+  Annotated, PSIPP,  56,   0,  17,   301.832,  8024.935,       193
+  Annotated, PSIPP,  56,   0,  18,   329.167,  8867.201,       157
+  Annotated, PSIPP,  57,   0,   2,   303.336,  8458.117,       209
+  Annotated, PSIPP,  57,   0,   4,   299.229,  7327.137,       603
+  Annotated, PSIPP,  57,   0,   7,   298.188,  8509.763,       486
+  Annotated, PSIPP,  57,   0,   9,   305.660,  8469.979,       924
+  Annotated, PSIPP,  57,   0,  12,   319.982,  8151.410,       143
+  Annotated, PSIPP,  57,   0,  17,    -1.000,    -1.000,       198
+  Annotated, PSIPP,  57,   0,  18,   329.167,  9056.287,       162
+  Annotated, PSIPP,  58,   0,   2,   303.336,  8693.866,       301
+  Annotated, PSIPP,  58,   0,   4,   299.229,  7367.186,       536
+  Annotated, PSIPP,  58,   0,   7,   298.188,  8678.348,       819
+  Annotated, PSIPP,  58,   0,   9,   305.660,  8655.826,       357
+  Annotated, PSIPP,  58,   0,  12,   319.982,  8218.973,       147
+  Annotated, PSIPP,  58,   0,  18,   329.167,  9229.924,       166
+  Annotated, PSIPP,  59,   0,   2,   303.336,  8900.321,       453
+  Annotated, PSIPP,  59,   0,   4,   299.229,  7523.225,       342
+  Annotated, PSIPP,  59,   0,   7,   298.188,  8831.470,       672
+  Annotated, PSIPP,  59,   0,   9,   305.660,  8878.218,       536
+  Annotated, PSIPP,  59,   0,  12,   319.982,  8245.993,       155
+  Annotated, PSIPP,  59,   0,  18,   329.167,  9408.678,       171
+  Annotated, PSIPP,  60,   0,   2,   303.336,  9089.749,       403
+  Annotated, PSIPP,  60,   0,   4,   299.229,  7627.496,       503
+  Annotated, PSIPP,  60,   0,   7,   298.188,  9090.496,       780
+  Annotated, PSIPP,  60,   0,   9,   305.660,  8968.504,       386
+  Annotated, PSIPP,  60,   0,  12,   319.982,  8378.393,       146
+  Annotated, PSIPP,  60,   0,  18,    -1.000,    -1.000,       169
+  Annotated, PSIPP,  61,   0,   2,   303.336,  9189.359,       403
+  Annotated, PSIPP,  61,   0,   4,   299.229,  7725.925,       356
+  Annotated, PSIPP,  61,   0,   7,   298.188,  9203.189,       973
+  Annotated, PSIPP,  61,   0,   9,   305.660,  9140.058,       527
+  Annotated, PSIPP,  61,   0,  12,   319.982,  8593.157,       160
+  Annotated, PSIPP,  62,   0,   2,   303.336,  9242.696,       237
+  Annotated, PSIPP,  62,   0,   4,   299.229,  7861.469,       539
+  Annotated, PSIPP,  62,   0,   7,   298.188,  9300.059,       231
+  Annotated, PSIPP,  62,   0,   9,   305.660,  9263.495,       797
+  Annotated, PSIPP,  62,   0,  12,   319.982,  8782.746,       152
+  Annotated, PSIPP,  63,   0,   2,   303.336,  9504.629,       247
+  Annotated, PSIPP,  63,   0,   4,   299.229,  8037.524,       992
+  Annotated, PSIPP,  63,   0,   7,   298.188,  9429.209,       647
+  Annotated, PSIPP,  63,   0,   9,    -1.000,    -1.000,       649
+  Annotated, PSIPP,  63,   0,  12,   319.982,  8935.495,       158
+  Annotated, PSIPP,  64,   0,   2,   303.336,  9507.505,       398
+  Annotated, PSIPP,  64,   0,   4,   299.229,  8253.562,      1035
+  Annotated, PSIPP,  64,   0,   7,   298.188,  9632.833,       371
+  Annotated, PSIPP,  64,   0,  12,   319.982,  9130.369,       162
+  Annotated, PSIPP,  65,   0,   2,   303.336,  9718.944,       196
+  Annotated, PSIPP,  65,   0,   4,   299.229,  8446.305,       859
+  Annotated, PSIPP,  65,   0,   7,   298.188,  9848.855,       894
+  Annotated, PSIPP,  65,   0,  12,   319.982,  9431.432,       177
+  Annotated, PSIPP,  66,   0,   2,   303.336,  9880.605,       314
+  Annotated, PSIPP,  66,   0,   4,   299.229,  8650.878,       624
+  Annotated, PSIPP,  66,   0,   7,   298.188, 10097.405,       630
+  Annotated, PSIPP,  66,   0,  12,   319.982,  9534.569,       171
+  Annotated, PSIPP,  67,   0,   2,   303.336, 10060.508,       359
+  Annotated, PSIPP,  67,   0,   4,    -1.000,    -1.000,      1009
+  Annotated, PSIPP,  67,   0,   7,   298.188, 10176.165,      1260
+  Annotated, PSIPP,  67,   0,  12,   319.982,  9798.999,       180
+  Annotated, PSIPP,  68,   0,   2,   303.336, 10269.074,       366
+  Annotated, PSIPP,  68,   0,   7,   298.188, 10243.890,       395
+  Annotated, PSIPP,  68,   0,  12,   319.982,  9943.295,       177
+  Annotated, PSIPP,  69,   0,   2,   303.336, 10330.533,       195
+  Annotated, PSIPP,  69,   0,   7,   298.188, 10295.050,       553
+  Annotated, PSIPP,  69,   0,  12,   319.982, 10073.036,       186
+  Annotated, PSIPP,  70,   0,   2,   303.336, 10447.014,       231
+  Annotated, PSIPP,  70,   0,   7,   298.188, 10450.983,       442
+  Annotated, PSIPP,  70,   0,  12,   319.982, 10283.249,       204
+  Annotated, PSIPP,  71,   0,   2,   303.336, 10699.766,       234
+  Annotated, PSIPP,  71,   0,   7,   298.188, 10523.533,       574
+  Annotated, PSIPP,  71,   0,  12,   319.982, 10395.236,       198
+  Annotated, PSIPP,  72,   0,   2,   303.336, 10785.691,       255
+  Annotated, PSIPP,  72,   0,   7,   298.188, 10688.090,       653
+  Annotated, PSIPP,  72,   0,  12,   319.982, 10557.235,       192
+  Annotated, PSIPP,  73,   0,   2,   303.336, 10844.100,       344
+  Annotated, PSIPP,  73,   0,   7,   298.188, 10748.232,      1034
+  Annotated, PSIPP,  73,   0,  12,   319.982, 10738.753,       189
+  Annotated, PSIPP,  74,   0,   2,   303.336, 11010.532,       284
+  Annotated, PSIPP,  74,   0,   7,   298.188, 10956.914,       575
+  Annotated, PSIPP,  74,   0,  12,   319.982, 10877.401,       194
+  Annotated, PSIPP,  75,   0,   2,   303.336, 11237.612,       259
+  Annotated, PSIPP,  75,   0,   7,   298.188, 11144.096,       624
+  Annotated, PSIPP,  75,   0,  12,   319.982, 11117.403,       196
+  Annotated, PSIPP,  76,   0,   2,   303.336, 11503.611,       258
+  Annotated, PSIPP,  76,   0,   7,   298.188, 11245.429,      1183
+  Annotated, PSIPP,  76,   0,  12,   319.982, 11138.174,       202
+  Annotated, PSIPP,  77,   0,   2,   303.336, 11738.033,       435
+  Annotated, PSIPP,  77,   0,   7,   298.188, 11515.546,       976
+  Annotated, PSIPP,  77,   0,  12,   319.982, 11212.382,       209
+  Annotated, PSIPP,  78,   0,   2,   303.336, 11909.116,       379
+  Annotated, PSIPP,  78,   0,   7,   298.188, 11791.870,      1048
+  Annotated, PSIPP,  78,   0,  12,   319.982, 11344.904,       214
+  Annotated, PSIPP,  79,   0,   2,   303.336, 12001.676,       444
+  Annotated, PSIPP,  79,   0,   7,   298.188, 11924.571,       722
+  Annotated, PSIPP,  79,   0,  12,   319.982, 11522.934,       203
+  Annotated, PSIPP,  80,   0,   2,   303.336, 12103.887,       337
+  Annotated, PSIPP,  80,   0,   7,   298.188, 12004.099,       739
+  Annotated, PSIPP,  80,   0,  12,   319.982, 11560.959,       212
+  Annotated, PSIPP,  81,   0,   2,   303.336, 12257.556,       260
+  Annotated, PSIPP,  81,   0,   7,   298.188, 12184.847,       769
+  Annotated, PSIPP,  81,   0,  12,   319.982, 11874.868,       212
+  Annotated, PSIPP,  82,   0,   2,   303.336, 12296.295,       445
+  Annotated, PSIPP,  82,   0,   7,   298.188, 12320.276,       841
+  Annotated, PSIPP,  82,   0,  12,   319.982, 12137.360,       232
+  Annotated, PSIPP,  83,   0,   2,   303.336, 12406.468,       434
+  Annotated, PSIPP,  83,   0,   7,   298.188, 12460.504,       655
+  Annotated, PSIPP,  83,   0,  12,   319.982, 12326.040,       230
+  Annotated, PSIPP,  84,   0,   2,   303.336, 12593.173,       386
+  Annotated, PSIPP,  84,   0,   7,   298.188, 12731.599,       572
+  Annotated, PSIPP,  84,   0,  12,   319.982, 12368.843,       227
+  Annotated, PSIPP,  85,   0,   2,   303.336, 12876.554,       438
+  Annotated, PSIPP,  85,   0,   7,   298.188, 12766.707,       573
+  Annotated, PSIPP,  85,   0,  12,   319.982, 12505.204,       220
+  Annotated, PSIPP,  86,   0,   2,   303.336, 13059.329,       474
+  Annotated, PSIPP,  86,   0,   7,   298.188, 13008.825,       477
+  Annotated, PSIPP,  86,   0,  12,   319.982, 12687.775,       232
+  Annotated, PSIPP,  87,   0,   2,   303.336, 13077.906,       524
+  Annotated, PSIPP,  87,   0,   7,   298.188, 13232.392,       527
+  Annotated, PSIPP,  87,   0,  12,   319.982, 12900.911,       237
+  Annotated, PSIPP,  88,   0,   2,   303.336, 13303.216,       267
+  Annotated, PSIPP,  88,   0,   7,   298.188, 13376.265,      1012
+  Annotated, PSIPP,  88,   0,  12,   319.982, 13109.604,       242
+  Annotated, PSIPP,  89,   0,   2,   303.336, 13488.971,       451
+  Annotated, PSIPP,  89,   0,   7,   298.188, 13471.702,       521
+  Annotated, PSIPP,  89,   0,  12,   319.982, 13287.225,       250
+  Annotated, PSIPP,  90,   0,   2,   303.336, 13537.648,       531
+  Annotated, PSIPP,  90,   0,   7,   298.188, 13596.113,       631
+  Annotated, PSIPP,  90,   0,  12,   319.982, 13387.800,       271
+  Annotated, PSIPP,  91,   0,   2,   303.336, 13736.436,       401
+  Annotated, PSIPP,  91,   0,   7,   298.188, 13826.109,       598
+  Annotated, PSIPP,  91,   0,  12,   319.982, 13511.195,       281
+  Annotated, PSIPP,  92,   0,   2,   303.336, 13825.381,       409
+  Annotated, PSIPP,  92,   0,   7,   298.188, 13928.393,       711
+  Annotated, PSIPP,  92,   0,  12,   319.982, 13708.618,       260
+  Annotated, PSIPP,  93,   0,   2,   303.336, 14054.078,       412
+  Annotated, PSIPP,  93,   0,   7,   298.188, 14013.605,       735
+  Annotated, PSIPP,  93,   0,  12,   319.982, 13837.378,       263
+  Annotated, PSIPP,  94,   0,   2,   303.336, 14246.429,       528
+  Annotated, PSIPP,  94,   0,   7,   298.188, 14220.339,       688
+  Annotated, PSIPP,  94,   0,  12,   319.982, 13954.252,       273
+  Annotated, PSIPP,  95,   0,   2,   303.336, 14391.535,       495
+  Annotated, PSIPP,  95,   0,   7,   298.188, 14449.837,       674
+  Annotated, PSIPP,  95,   0,  12,   319.982, 14206.703,       275
+  Annotated, PSIPP,  96,   0,   2,   303.336, 14436.179,       399
+  Annotated, PSIPP,  96,   0,   7,   298.188, 14586.757,       683
+  Annotated, PSIPP,  96,   0,  12,   319.982, 14248.580,       281
+  Annotated, PSIPP,  97,   0,   2,   303.336, 14594.301,       371
+  Annotated, PSIPP,  97,   0,   7,   298.188, 14671.079,       657
+  Annotated, PSIPP,  97,   0,  12,   319.982, 14372.006,       277
+  Annotated, PSIPP,  98,   0,   2,   303.336, 14779.809,       436
+  Annotated, PSIPP,  98,   0,   7,   298.188, 14867.789,       795
+  Annotated, PSIPP,  98,   0,  12,   319.982, 14586.319,       290
+  Annotated, PSIPP,  99,   0,   2,   303.336, 15058.957,       305
+  Annotated, PSIPP,  99,   0,   7,   298.188, 15056.883,       831
+  Annotated, PSIPP,  99,   0,  12,   319.982, 14853.788,       301
+  Annotated, PSIPP, 100,   0,   2,   303.336, 15192.577,       437
+  Annotated, PSIPP, 100,   0,   7,    -1.000,    -1.000,       847
+  Annotated, PSIPP, 100,   0,  12,   319.982, 15068.606,       299
+  Annotated, PSIPP, 101,   0,   2,   303.336, 15454.747,       421
+  Annotated, PSIPP, 101,   0,  12,   319.982, 15181.424,       299
+  Annotated, PSIPP, 102,   0,   2,   303.336, 15529.101,       392
+  Annotated, PSIPP, 102,   0,  12,   319.982, 15384.660,       305
+  Annotated, PSIPP, 103,   0,   2,   303.336, 15695.945,       438
+  Annotated, PSIPP, 103,   0,  12,   319.982, 15589.555,       310
+  Annotated, PSIPP, 104,   0,   2,   303.336, 15868.460,       497
+  Annotated, PSIPP, 104,   0,  12,   319.982, 15615.192,       312
+  Annotated, PSIPP, 105,   0,   2,   303.336, 15927.122,       413
+  Annotated, PSIPP, 105,   0,  12,   319.982, 15673.235,       311
+  Annotated, PSIPP, 106,   0,   2,   303.336, 16015.989,       399
+  Annotated, PSIPP, 106,   0,  12,   319.982, 15825.695,       316
+  Annotated, PSIPP, 107,   0,   2,   303.336, 16069.314,       458
+  Annotated, PSIPP, 107,   0,  12,   319.982, 16068.358,       338
+  Annotated, PSIPP, 108,   0,   2,   303.336, 16263.279,       381
+  Annotated, PSIPP, 108,   0,  12,   319.982, 16265.283,       344
+  Annotated, PSIPP, 109,   0,   2,   303.336, 16439.752,       379
+  Annotated, PSIPP, 109,   0,  12,   319.982, 16378.727,       346
+  Annotated, PSIPP, 110,   0,   2,   303.336, 16518.714,       467
+  Annotated, PSIPP, 110,   0,  12,   319.982, 16537.242,       349
+  Annotated, PSIPP, 111,   0,   2,   303.336, 16597.682,       384
+  Annotated, PSIPP, 111,   0,  12,   319.982, 16743.978,       361
+  Annotated, PSIPP, 112,   0,   2,   303.336, 16702.395,       481
+  Annotated, PSIPP, 112,   0,  12,   319.982, 17048.626,       369
+  Annotated, PSIPP, 113,   0,   2,   303.336, 16881.241,       392
+  Annotated, PSIPP, 113,   0,  12,   319.982, 17086.405,       373
+  Annotated, PSIPP, 114,   0,   2,   303.336, 16990.709,       392
+  Annotated, PSIPP, 114,   0,  12,   319.982, 17328.826,       382
+  Annotated, PSIPP, 115,   0,   2,   303.336, 17205.731,       471
+  Annotated, PSIPP, 115,   0,  12,   319.982, 17569.539,       388
+  Annotated, PSIPP, 116,   0,   2,   303.336, 17385.454,       645
+  Annotated, PSIPP, 116,   0,  12,   319.982, 17831.172,       399
+  Annotated, PSIPP, 117,   0,   2,   303.336, 17585.060,       422
+  Annotated, PSIPP, 117,   0,  12,   319.982, 18090.392,       415
+  Annotated, PSIPP, 118,   0,   2,   303.336, 17817.885,       491
+  Annotated, PSIPP, 118,   0,  12,   319.982, 18238.634,       418
+  Annotated, PSIPP, 119,   0,   2,   303.336, 17970.071,       501
+  Annotated, PSIPP, 119,   0,  12,   319.982, 18517.931,       425
+  Annotated, PSIPP, 120,   0,   2,   303.336, 18057.927,       455
+  Annotated, PSIPP, 120,   0,  12,   319.982, 18610.986,       428
+  Annotated, PSIPP, 121,   0,   2,   303.336, 18193.938,       463
+  Annotated, PSIPP, 121,   0,  12,   319.982, 18803.236,       451
+  Annotated, PSIPP, 122,   0,   2,   303.336, 18441.076,       517
+  Annotated, PSIPP, 122,   0,  12,   319.982, 18985.679,       454
+  Annotated, PSIPP, 123,   0,   2,   303.336, 18736.265,       489
+  Annotated, PSIPP, 123,   0,  12,   319.982, 19073.580,       452
+  Annotated, PSIPP, 124,   0,   2,   303.336, 18925.427,       473
+  Annotated, PSIPP, 124,   0,  12,   319.982, 19247.778,       458
+  Annotated, PSIPP, 125,   0,   2,   303.336, 19145.071,       578
+  Annotated, PSIPP, 125,   0,  12,   319.982, 19499.806,       474
+  Annotated, PSIPP, 126,   0,   2,   303.336, 19344.664,       447
+  Annotated, PSIPP, 126,   0,  12,   319.982, 19675.736,       473
+  Annotated, PSIPP, 127,   0,   2,   303.336, 19558.541,       552
+  Annotated, PSIPP, 127,   0,  12,   319.982, 19785.025,       476
+  Annotated, PSIPP, 128,   0,   2,   303.336, 19634.347,       616
+  Annotated, PSIPP, 128,   0,  12,   319.982, 19918.274,       479
+  Annotated, PSIPP, 129,   0,   2,   303.336, 19861.983,       525
+  Annotated, PSIPP, 129,   0,  12,   319.982, 20153.304,       486
+  Annotated, PSIPP, 130,   0,   2,   303.336, 20140.289,       595
+  Annotated, PSIPP, 130,   0,  12,   319.982, 20305.347,       491
+  Annotated, PSIPP, 131,   0,   2,   303.336, 20294.416,       587
+  Annotated, PSIPP, 131,   0,  12,   319.982, 20473.423,       496
+  Annotated, PSIPP, 132,   0,   2,   303.336, 20528.983,       537
+  Annotated, PSIPP, 132,   0,  12,   319.982, 20536.911,       500
+  Annotated, PSIPP, 133,   0,   2,   303.336, 20685.088,       479
+  Annotated, PSIPP, 133,   0,  12,   319.982, 20764.018,       503
+  Annotated, PSIPP, 134,   0,   2,   303.336, 20903.220,       631
+  Annotated, PSIPP, 134,   0,  12,   319.982, 20883.127,       508
+  Annotated, PSIPP, 135,   0,   2,   303.336, 21153.062,       611
+  Annotated, PSIPP, 135,   0,  12,   319.982, 21003.769,       510
+  Annotated, PSIPP, 136,   0,   2,   303.336, 21307.053,       638
+  Annotated, PSIPP, 136,   0,  12,   319.982, 21261.544,       530
+  Annotated, PSIPP, 137,   0,   2,   303.336, 21471.316,       558
+  Annotated, PSIPP, 137,   0,  12,   319.982, 21543.951,       543
+  Annotated, PSIPP, 138,   0,   2,   303.336, 21752.141,       659
+  Annotated, PSIPP, 138,   0,  12,   319.982, 21781.501,       560
+  Annotated, PSIPP, 139,   0,   2,   303.336, 21817.385,       640
+  Annotated, PSIPP, 139,   0,  12,   319.982, 21857.031,       568
+  Annotated, PSIPP, 140,   0,   2,   303.336, 22117.661,       599
+  Annotated, PSIPP, 140,   0,  12,    -1.000,    -1.000,       582
+  Annotated, PSIPP, 141,   0,   2,   332.169, 22449.830,       675
+  Annotated, PSIPP, 142,   0,   2,   332.169, 22665.604,       715
+  Annotated, PSIPP, 143,   0,   2,   332.169, 22812.613,       632
+  Annotated, PSIPP, 144,   0,   2,   332.169, 22985.700,       653
+  Annotated, PSIPP, 145,   0,   2,   332.169, 23316.268,       754
+  Annotated, PSIPP, 146,   0,   2,   332.169, 23446.865,       756
+  Annotated, PSIPP, 147,   0,   2,   332.169, 23636.220,       813
+  Annotated, PSIPP, 148,   0,   2,   332.169, 23730.291,       756
+  Annotated, PSIPP, 149,   0,   2,   332.169, 23997.818,       721
+  Annotated, PSIPP, 150,   0,   2,   332.169, 24025.577,       666
+  Annotated, PSIPP, 151,   0,   2,   332.169, 24093.674,       660
+  Annotated, PSIPP, 152,   0,   2,   332.169, 24235.370,       681
+  Annotated, PSIPP, 153,   0,   2,   332.169, 24253.733,       692
+  Annotated, PSIPP, 154,   0,   2,   332.169, 24386.258,       610
+  Annotated, PSIPP, 155,   0,   2,   332.169, 24495.581,       743
+  Annotated, PSIPP, 156,   0,   2,   332.169, 24732.847,       679
+  Annotated, PSIPP, 157,   0,   2,   332.169, 24984.148,       691
+  Annotated, PSIPP, 158,   0,   2,   332.169, 25235.654,       736
+  Annotated, PSIPP, 159,   0,   2,   332.169, 25392.247,       752
+  Annotated, PSIPP, 160,   0,   2,   332.169, 25435.279,       814
+  Annotated, PSIPP, 161,   0,   2,   332.169, 25616.121,       696
+  Annotated, PSIPP, 162,   0,   2,   332.169, 25766.389,       748
+  Annotated, PSIPP, 163,   0,   2,   332.169, 25970.779,       891
+  Annotated, PSIPP, 164,   0,   2,   332.169, 26007.148,       831
+  Annotated, PSIPP, 165,   0,   2,   332.169, 26029.549,       724
+  Annotated, PSIPP, 166,   0,   2,   332.169, 26120.579,       705
+  Annotated, PSIPP, 167,   0,   2,   332.169, 26242.616,       723
+  Annotated, PSIPP, 168,   0,   2,   332.169, 26262.766,       766
+  Annotated, PSIPP, 169,   0,   2,   332.169, 26368.899,       703
+  Annotated, PSIPP, 170,   0,   2,   332.169, 26635.680,       811
+  Annotated, PSIPP, 171,   0,   2,   332.169, 26652.067,       781
+  Annotated, PSIPP, 172,   0,   2,   332.169, 26834.308,       696
+  Annotated, PSIPP, 173,   0,   2,    -1.000,    -1.000,       862

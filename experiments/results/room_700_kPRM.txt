@@ -1,0 +1,163 @@
+0 annotation: 1078
+1 annotation: 1046
+2 annotation: 1356
+3 annotation: 1106
+4 annotation: 1082
+5 annotation: 1032
+6 annotation: 1031
+7 annotation: 1019
+8 annotation: 1030
+9 annotation: 1069
+10 annotation: 1055
+11 annotation: 1017
+12 annotation: 1016
+13 annotation: 1044
+14 annotation: 1059
+15 annotation: 1021
+16 annotation: 1042
+17 annotation: 1032
+18 annotation: 1047
+19 annotation: 1055
+20 annotation: 1012
+21 annotation: 1084
+22 annotation: 1049
+23 annotation: 1076
+24 annotation: 1041
+  Annotated, PSIPP,   1,   0,   0,    38.163,    38.163,         2
+Unannotated,  CCBS,   1,   0,   0,    38.163,    38.163,         0
+Unannotated, PSIPP,   1,   0,   0,    38.163,    38.163,         1
+  Annotated, PSIPP,   1,   0,   1,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,   1,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   1,   0,   1,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,   2,    42.222,    42.222,         1
+Unannotated,  CCBS,   1,   0,   2,    42.222,    42.222,         1
+Unannotated, PSIPP,   1,   0,   2,    42.222,    42.222,         1
+  Annotated, PSIPP,   1,   0,   3,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,   3,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   1,   0,   3,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,   4,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,   4,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   1,   0,   4,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,   5,    27.712,    27.712,         1
+Unannotated,  CCBS,   1,   0,   5,    27.712,    27.712,         1
+Unannotated, PSIPP,   1,   0,   5,    27.712,    27.712,         1
+  Annotated, PSIPP,   1,   0,   6,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,   6,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   1,   0,   6,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,   7,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,   7,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   1,   0,   7,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,   8,    27.551,    27.551,         1
+Unannotated,  CCBS,   1,   0,   8,    27.551,    27.551,         1
+Unannotated, PSIPP,   1,   0,   8,    27.551,    27.551,         1
+  Annotated, PSIPP,   1,   0,   9,    22.526,    22.526,         1
+Unannotated,  CCBS,   1,   0,   9,    22.526,    22.526,         0
+Unannotated, PSIPP,   1,   0,   9,    22.526,    22.526,         1
+  Annotated, PSIPP,   1,   0,  10,    31.470,    31.470,         1
+Unannotated,  CCBS,   1,   0,  10,    31.470,    31.470,         0
+Unannotated, PSIPP,   1,   0,  10,    31.470,    31.470,         1
+  Annotated, PSIPP,   1,   0,  11,    25.901,    25.901,         1
+Unannotated,  CCBS,   1,   0,  11,    25.901,    25.901,         0
+Unannotated, PSIPP,   1,   0,  11,    25.901,    25.901,         1
+  Annotated, PSIPP,   1,   0,  12,    45.753,    45.753,         1
+Unannotated,  CCBS,   1,   0,  12,    45.753,    45.753,         0
+Unannotated, PSIPP,   1,   0,  12,    45.753,    45.753,         1
+  Annotated, PSIPP,   1,   0,  13,    21.402,    21.402,         1
+Unannotated,  CCBS,   1,   0,  13,    21.402,    21.402,         0
+Unannotated, PSIPP,   1,   0,  13,    21.402,    21.402,         1
+  Annotated, PSIPP,   1,   0,  14,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,  14,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   1,   0,  14,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,  15,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,  15,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   1,   0,  15,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,  16,    39.500,    39.500,         1
+Unannotated,  CCBS,   1,   0,  16,    39.500,    39.500,         1
+Unannotated, PSIPP,   1,   0,  16,    39.500,    39.500,         1
+  Annotated, PSIPP,   1,   0,  17,    51.877,    51.877,         1
+Unannotated,  CCBS,   1,   0,  17,    51.877,    51.877,         0
+Unannotated, PSIPP,   1,   0,  17,    51.877,    51.877,         1
+  Annotated, PSIPP,   1,   0,  18,    44.116,    44.116,         1
+Unannotated,  CCBS,   1,   0,  18,    44.116,    44.116,         0
+Unannotated, PSIPP,   1,   0,  18,    44.116,    44.116,         1
+  Annotated, PSIPP,   1,   0,  19,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,  19,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   1,   0,  19,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,  20,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,  20,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   1,   0,  20,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,  21,    43.767,    43.767,         1
+Unannotated,  CCBS,   1,   0,  21,    43.767,    43.767,         1
+Unannotated, PSIPP,   1,   0,  21,    43.767,    43.767,         1
+  Annotated, PSIPP,   1,   0,  22,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,  22,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   1,   0,  22,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,  23,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,  23,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   1,   0,  23,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   1,   0,  24,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   1,   0,  24,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   1,   0,  24,    -1.000,    -1.000,         1
+  Annotated, PSIPP,   2,   0,   0,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,   0,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   2,   0,   0,    -1.000,    -1.000,       438
+  Annotated, PSIPP,   2,   0,   2,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,   2,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   2,   0,   2,    -1.000,    -1.000,       502
+  Annotated, PSIPP,   2,   0,   5,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,   5,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   2,   0,   5,    -1.000,    -1.000,       313
+  Annotated, PSIPP,   2,   0,   8,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,   8,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   2,   0,   8,    -1.000,    -1.000,       372
+  Annotated, PSIPP,   2,   0,   9,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,   9,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   2,   0,   9,    -1.000,    -1.000,       281
+  Annotated, PSIPP,   2,   0,  10,    53.006,    84.475,         1
+Unannotated,  CCBS,   2,   0,  10,    53.006,    84.475,         1
+Unannotated, PSIPP,   2,   0,  10,    53.006,    84.475,       403
+  Annotated, PSIPP,   2,   0,  11,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,  11,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   2,   0,  11,    -1.000,    -1.000,       248
+  Annotated, PSIPP,   2,   0,  12,    76.442,   122.195,         1
+Unannotated,  CCBS,   2,   0,  12,    76.442,   122.195,         1
+Unannotated, PSIPP,   2,   0,  12,    76.442,   122.195,       560
+  Annotated, PSIPP,   2,   0,  13,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,  13,    -1.000,    -1.000,         1
+Unannotated, PSIPP,   2,   0,  13,    -1.000,    -1.000,       280
+  Annotated, PSIPP,   2,   0,  16,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   2,   0,  16,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   2,   0,  16,    -1.000,    -1.000,       435
+  Annotated, PSIPP,   2,   0,  17,    -1.000,    -1.000,         2
+Unannotated,  CCBS,   2,   0,  17,    -1.000,    -1.000,         3
+Unannotated, PSIPP,   2,   0,  17,    -1.000,    -1.000,       597
+  Annotated, PSIPP,   2,   0,  18,    44.116,    74.644,         1
+Unannotated,  CCBS,   2,   0,  18,    44.116,    74.644,         1
+Unannotated, PSIPP,   2,   0,  18,    44.116,    74.644,       536
+  Annotated, PSIPP,   2,   0,  21,    48.287,    92.054,         1
+Unannotated,  CCBS,   2,   0,  21,    48.287,    92.054,         1
+Unannotated, PSIPP,   2,   0,  21,    48.287,    92.054,       537
+  Annotated, PSIPP,   3,   0,  10,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   3,   0,  10,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   3,   0,  10,    -1.000,    -1.000,      1056
+  Annotated, PSIPP,   3,   0,  12,    76.442,   124.820,         1
+Unannotated,  CCBS,   3,   0,  12,    76.442,   124.820,         2
+Unannotated, PSIPP,   3,   0,  12,    76.442,   124.820,      1431
+  Annotated, PSIPP,   3,   0,  18,    44.116,    94.072,         1
+Unannotated,  CCBS,   3,   0,  18,    44.116,    94.072,         1
+Unannotated, PSIPP,   3,   0,  18,    44.116,    94.072,       945
+  Annotated, PSIPP,   3,   0,  21,    61.009,   153.064,         1
+Unannotated,  CCBS,   3,   0,  21,    61.009,   153.064,         1
+Unannotated, PSIPP,   3,   0,  21,    61.009,   153.064,      1127
+  Annotated, PSIPP,   4,   0,  12,    -1.000,    -1.000,         2
+Unannotated,  CCBS,   4,   0,  12,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   4,   0,  12,    -1.000,    -1.000,      1497
+  Annotated, PSIPP,   4,   0,  18,    44.116,   123.808,         1
+Unannotated,  CCBS,   4,   0,  18,    44.116,   123.808,         2
+Unannotated, PSIPP,   4,   0,  18,    44.116,   123.808,      1217
+  Annotated, PSIPP,   4,   0,  21,    -1.000,    -1.000,         2
+Unannotated,  CCBS,   4,   0,  21,    -1.000,    -1.000,         2
+Unannotated, PSIPP,   4,   0,  21,    -1.000,    -1.000,      1820
+  Annotated, PSIPP,   5,   0,  18,    -1.000,    -1.000,         1
+Unannotated,  CCBS,   5,   0,  18,    -1.000,    -1.000,         3
+Unannotated, PSIPP,   5,   0,  18,    -1.000,    -1.000,      1553

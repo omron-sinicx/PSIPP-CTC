@@ -1,0 +1,9 @@
+Problems:
+  Stdin:
+    type: Explicit
+    file: stdin
+Planners:
+  PSIPP:
+    type: PSIPP
+
+Output: stdout

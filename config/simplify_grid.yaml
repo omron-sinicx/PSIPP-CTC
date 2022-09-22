@@ -1,0 +1,9 @@
+Input:
+  type: MAPF_Benchmark
+  map: ../problem_instances/MAPF_Benchmark/maps/Berlin_0_256.map
+  agent_size: 2.0
+
+max_distance: 3.0
+number_of_agents: 100
+
+Output: ../problem_instances/spatial/Berlin_0_256_simplified_3.0.txt

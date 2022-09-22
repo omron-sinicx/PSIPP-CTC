@@ -1,0 +1,16 @@
+build
+*~
+clang_all.sh
+*.out
+problem_instances/MAPF_Benchmark/maps/*/*
+problem_instances/MAPF_Benchmark/scenarios
+*#
+*.#*
+*.txt
+*:Zone.Identifier
+!sample*.txt
+!problem_instances/roadmaps/*.txt
+!problem_instances/spatial/*.txt
+problem_instances/roadmaps/generated*
+experiments/roadmaps
+!experiments/results/*.txt

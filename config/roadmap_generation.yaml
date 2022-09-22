@@ -1,0 +1,8 @@
+Generator:
+  type: kPRM
+  number_of_vertices: 100
+  number_of_neighbors: 10
+Input:
+  type: Text
+  file: stdin
+Output: stdout

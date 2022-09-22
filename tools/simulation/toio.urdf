@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<robot name="toio_style">
+
+  <!--base-->
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <box size="0.3 0.3 0.23" />
+      </geometry>
+      <material name="white">
+        <color rgba="1.0 1.0 1.0 1.0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <box size="0.3 0.3 0.23" />
+      </geometry>
+    </collision>
+    <inertial>
+      <mass value="1.0" />
+      <inertia ixx="0.015" iyy="0.0375" izz="0.0375" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+  </link>
+
+  <!--right wheel-->
+  <link name="right_wheel">
+    <visual>
+      <geometry>
+        <cylinder length="0.01" radius="0.05" />
+      </geometry>
+      <material name="gray">
+        <color rgba="0.7 0.7 0.7 1" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <cylinder length="0.005" radius="0.05" />
+      </geometry>
+    </collision>
+    <inertial>
+      <mass value="0.1" />
+      <inertia ixx="5.1458e-5" iyy="5.1458e-5" izz="6.125e-5" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+  </link>
+  <joint name="right_wheel_joint" type="continuous">
+    <axis xyz="0 0 1" />
+    <parent link="base_link" />
+    <child link="right_wheel" />
+    <origin rpy="-1.5708 0 0" xyz="0.0 -0.125 -.09" />
+  </joint>
+
+  <!--left wheel-->
+  <link name="left_wheel">
+    <visual>
+      <geometry>
+        <cylinder length="0.01" radius="0.05" />
+      </geometry>
+      <material name="gray" />
+    </visual>
+    <collision>
+      <geometry>
+        <cylinder length="0.005" radius="0.05" />
+      </geometry>
+    </collision>
+    <inertial>
+      <mass value="0.1" />
+      <inertia ixx="5.1458e-5" iyy="5.1458e-5" izz="6.125e-5" ixy="0" ixz="0" iyz="0" />
+    </inertial>
+  </link>
+  <joint name="left_wheel_joint" type="continuous">
+    <axis xyz="0 0 1" />
+    <parent link="base_link" />
+    <child link="left_wheel" />
+    <origin rpy="-1.5708 0 0" xyz="0.0 0.125 -.09" />
+  </joint>
+</robot>

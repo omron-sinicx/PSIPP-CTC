@@ -1,0 +1,15 @@
+Iterations: 10
+
+Generators:
+  CDT-1000:
+    type: CDT
+    number_of_additionals: 1000
+
+Precalc: true
+
+Input:
+  type: Text
+  file: ../problem_instances/spatial/Berlin_0_256_simplified_3.0.txt
+  bucket_size: 100
+
+SpatialPlanners:

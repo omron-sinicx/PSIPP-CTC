@@ -1,0 +1,13 @@
+Generator:
+  type: kPRM
+  number_of_vertices: 0
+  number_of_neighbors: 15
+  
+Input:
+  type: Text
+  file: ../problem_instances/spatial/den520d_100.txt
+
+Roadmaps: ../problem_instances/roadmaps/generated/den520d_100-
+
+Iterations: 10
+number_of_agents: 1000
