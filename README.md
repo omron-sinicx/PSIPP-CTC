@@ -25,10 +25,7 @@ git clone https://github.com/omron-sinicx/PSIPP-CTC.git
 ```
 At the downloaded repository, build by make command:
 ```
-mkdir build
-cd build
-cmake ..
-make
+cmake -H. -Bbuild && make -j -C build
 ```
 
 ## Usage
