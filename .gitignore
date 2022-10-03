@@ -15,3 +15,4 @@ problem_instances/MAPF_Benchmark/scenarios
 problem_instances/roadmaps/generated*
 experiments/roadmaps
 !experiments/results/*.txt
+!assets/*
